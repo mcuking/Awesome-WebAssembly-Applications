@@ -43,3 +43,7 @@ A Curated List of Articles on Awesome WebAssembly Applications
 ### Serverless
 
 - [初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
+
+### IoT
+
+- [基于 WebAssembly 的AIoT应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
