@@ -59,6 +59,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ### Serverless
 
+- [[Krustlet] Introducing Krustlet, the WebAssembly Kubelet](https://deislabs.io/posts/introducing-krustlet/)
+
 - [[WasmEdge] 初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
 
 ### IoT
