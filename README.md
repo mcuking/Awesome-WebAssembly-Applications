@@ -4,7 +4,7 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ## Inside the browser
 
-### Video Player
+### Media Player
 
 - [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
 
@@ -16,6 +16,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 - [[NOW 直播] 基于 WebAssembly的 H.265 播放器](https://developer.aliyun.com/article/747663)
 
 - [[WXInlinePlayer] WXInlinePlayer：高性能 WASM 播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+
+- [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
 
 ### Video Cut Frame
  
