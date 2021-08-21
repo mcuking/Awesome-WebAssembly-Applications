@@ -4,46 +4,61 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ## Inside the browser
 
-### H265 Video Player
+### Video Player
 
-- [Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
+- [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
 
-- [花椒前端基于WebAssembly 的H.265播放器研发](https://zhuanlan.zhihu.com/p/73772711)
+- [[淘宝直播] Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
+- [[爱奇艺直播] 爱奇艺直播 WebAssembly 优化之路](https://mp.weixin.qq.com/s/LRGNOuFwHXALs_lhPyN3Zw)
 
-- [基于WebAssembly的H.265播放器](https://developer.aliyun.com/article/747663)
+- [[花椒直播] 花椒前端基于WebAssembly 的 H.265 播放器研发](https://zhuanlan.zhihu.com/p/73772711)
 
-- [WXInlinePlayer：高性能WASM播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+- [[NOW 直播] 基于 WebAssembly的 H.265 播放器](https://developer.aliyun.com/article/747663)
 
-- [从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
+- [[WXInlinePlayer] WXInlinePlayer：高性能 WASM 播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
 
 ### Video Cut Frame
  
-- [使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
+- [[腾讯 IMWeb] 使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
  
-- [看前端如何通过WebAssembly实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
+- [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
-### Design Tool
+### Image Editor
 
-- [WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
+- [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
+
+- [[Squoosh] Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
 
 ### Games
 
-- [WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
+- [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
+
+### Native App Ported
+
+- [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
+
+- [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
 
 ### Local Web Server
 
-- [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+- [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
 ### Fat Client for Enterprise Applications (e.g. databases)
 
-- [飞书WASM实践——SQLite篇](https://juejin.cn/post/6986579588075913223)
+- [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
+
+### Frontend Web App
+
+- [[Yew] Rust / Wasm framework for building client web apps](https://yew.rs/)
+
+- [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ## Outside the browser
 
 ### Serverless
 
-- [初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
+- [[WasmEdge] 初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
 
 ### IoT
 
-- [基于 WebAssembly 的AIoT应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
+- [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
