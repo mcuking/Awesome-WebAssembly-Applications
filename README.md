@@ -63,6 +63,12 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[WasmEdge] 初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
 
+- [[Kubernetes] WebAssembly 与 Kubernetes 双剑合璧](https://developer.aliyun.com/article/744310)
+
 ### IoT
 
 - [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
+
+### Blockchain
+
+- [[Ethereum] Ethereum WebAssembly Docs](https://ewasm.readthedocs.io/en/mkdocs/)
