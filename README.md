@@ -45,6 +45,10 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
+### Code Protect
+
+- [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
+
 ### Fat Client for Enterprise Applications (e.g. databases)
 
 - [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
