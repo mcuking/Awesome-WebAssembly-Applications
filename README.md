@@ -35,6 +35,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Webcola] Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
 
+- [[Project Glitter] Project Glitter - Music Visualisation](https://benglin.github.io/project-glitter/)
+
 ### Games
 
 - [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
