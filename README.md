@@ -41,6 +41,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Webcola] Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
 
+- [[SciCharts] SciCharts Audio Analyzer Demo](https://demo.scichart.com/javascript-audio-analyzer-fft-example)
+
 - [[Project Glitter] Project Glitter - Music Visualisation](https://benglin.github.io/project-glitter/)
 
 ### Games
