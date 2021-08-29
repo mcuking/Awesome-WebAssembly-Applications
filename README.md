@@ -91,6 +91,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Kubernetes] WebAssembly 与 Kubernetes 双剑合璧](https://developer.aliyun.com/article/744310)
 
+- [[Vino] Vino - Code less, build more](https://vino.dev/)
+
 ### IoT
 
 - [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
