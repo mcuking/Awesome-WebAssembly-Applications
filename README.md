@@ -51,6 +51,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ### Fat Client for Enterprise Applications (e.g. databases)
 
+- [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
+
 - [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
 
 ### Frontend Web App
