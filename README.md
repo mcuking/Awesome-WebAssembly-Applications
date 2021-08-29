@@ -41,6 +41,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
 
+- [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
+
 ### Local Web Server
 
 - [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
