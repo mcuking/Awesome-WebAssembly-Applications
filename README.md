@@ -100,3 +100,7 @@ A Curated List of Articles on Awesome WebAssembly Applications
 ### Blockchain
 
 - [[Ethereum] Ethereum WebAssembly Docs](https://ewasm.readthedocs.io/en/mkdocs/)
+
+### Plugin System
+
+- [[Zellij] Zellij - A terminal workspace, with wasm plugin system](https://github.com/zellij-org/zellij)
