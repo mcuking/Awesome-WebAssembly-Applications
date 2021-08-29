@@ -53,11 +53,9 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
 
+- [[LibreOffice] LibreOffice team working on WebAssembly port](https://www.theregister.com/2021/02/16/libreoffice_team_working_on_port/)
+
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
-
-### Physics Engine
-
-- [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
 
 ### Containerisation 
 
@@ -65,25 +63,29 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
-### Code Protect
-
-- [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
-
 ### Fat Client for Enterprise Applications (e.g. databases)
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
 
 - [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
 
-### Scientific Calculator
-
-- [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
-
 ### Frontend Web App
 
 - [[Yew] Rust / Wasm framework for building client web apps](https://yew.rs/)
 
 - [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+
+### Physics Engine
+
+- [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
+
+### Code Protect
+
+- [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
+
+### Scientific Calculator
+
+- [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
 
 ## Outside the browser
 
