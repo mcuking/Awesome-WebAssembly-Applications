@@ -75,6 +75,12 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
+### Scientific Calculator
+
+- [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
+
+- [[NoteCalc] NoteCalc is a handy notepad with a smart builtin calculator](https://bbodi.github.io/notecalc3/)
+
 ### Physics Engine
 
 - [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
@@ -82,10 +88,6 @@ A Curated List of Articles on Awesome WebAssembly Applications
 ### Code Protect
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
-
-### Scientific Calculator
-
-- [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
 
 ## Outside the browser
 
