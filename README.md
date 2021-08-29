@@ -55,9 +55,11 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
 
-### Local Web Server
+### Containerisation 
 
 - [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+
+- [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
 ### Code Protect
 
