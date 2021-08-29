@@ -43,6 +43,10 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
+### Physics Engine
+
+- [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
+
 ### Local Web Server
 
 - [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
