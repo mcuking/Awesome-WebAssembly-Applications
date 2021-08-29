@@ -63,6 +63,10 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
 
+### Scientific Calculator
+
+- [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
+
 ### Frontend Web App
 
 - [[Yew] Rust / Wasm framework for building client web apps](https://yew.rs/)
