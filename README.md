@@ -35,6 +35,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ### Visualization
 
+- [[Webamp] Speeding Up Webamp’s Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
+
 - [[Webcola] Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
 
 - [[Project Glitter] Project Glitter - Music Visualisation](https://benglin.github.io/project-glitter/)
