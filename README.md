@@ -6,6 +6,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ### Media Player
 
+- [[BBC iPlayer] Building a WebAssembly Runtime for BBC iPlayer](https://medium.com/bbc-design-engineering/building-a-webassembly-runtime-for-bbc-iplayer-and-enhanced-audience-experiences-7087455808ef)
+
 - [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
 
 - [[淘宝直播] Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
