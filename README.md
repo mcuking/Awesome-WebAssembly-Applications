@@ -49,6 +49,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 ### Games
 
+- [[GLAS] GLAS = WebGL + Assembly Script(WASM);](https://dev.to/zoedreams/glas-webgl-assembly-script-wasm-i40)
+
 - [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
 
 ### Native App Ported
