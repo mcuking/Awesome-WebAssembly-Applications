@@ -59,6 +59,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[LibreOffice] LibreOffice team working on WebAssembly port](https://www.theregister.com/2021/02/16/libreoffice_team_working_on_port/)
 
+- [[PSPDFKit] WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
+
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
 ### Containerisation 
