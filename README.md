@@ -73,6 +73,10 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
+### Machine Learning
+
+- [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
+
 ### Fat Client for Enterprise Applications (e.g. databases)
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
