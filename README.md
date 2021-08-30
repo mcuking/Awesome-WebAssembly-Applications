@@ -21,6 +21,8 @@ A Curated List of Articles on Awesome WebAssembly Applications
 
 - [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
 
+- [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
+
 ### Media Editor
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
