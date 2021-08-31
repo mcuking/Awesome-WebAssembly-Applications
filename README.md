@@ -135,6 +135,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Ethereum] Ethereum WebAssembly Docs](https://ewasm.readthedocs.io/en/mkdocs/)
 
+- [[NEAR] A blockchain that runs smart contracts on a WebAssembly Virtual Machine](https://docs.near.org/docs/develop/contracts/overview)
+
 ### Plugin System
 
 - [[Zellij] Zellij - A terminal workspace, with wasm plugin system](https://github.com/zellij-org/zellij)
