@@ -103,6 +103,10 @@ A Curated List of Awesome WebAssembly Application
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
 
+### Shell
+
+- [[wasi-fs-access] WebAssembly shell with real file system access](https://wasi.rreverser.com/)
+
 ## Outside the browser
 
 ### Serverless
