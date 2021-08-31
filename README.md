@@ -1,6 +1,6 @@
-# Awsome-WebAssembly-Applications
+# Awesome-WebAssembly-Application
 
-A Curated List of Articles on Awesome WebAssembly Applications
+A Curated List of Awesome WebAssembly Application
 
 ## Inside the browser
 
