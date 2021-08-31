@@ -111,6 +111,8 @@ A Curated List of Awesome WebAssembly Application
 
 ### Serverless
 
+- [[Cloudflare] WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
+
 - [[Fastly] Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 
 - [[Atmo] Building for a future based on WebAssembly](https://blog.suborbital.dev/building-for-a-future-based-on-webassembly)
