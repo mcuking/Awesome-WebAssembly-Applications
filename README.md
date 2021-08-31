@@ -89,6 +89,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
+- [[Tokamak] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms](https://github.com/TokamakUI/Tokamak)
+
 ### Scientific Calculator
 
 - [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
