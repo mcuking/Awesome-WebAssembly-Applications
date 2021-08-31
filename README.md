@@ -111,6 +111,8 @@ A Curated List of Awesome WebAssembly Application
 
 ### Serverless
 
+- [[Fastly] Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
+
 - [[Atmo] Building for a future based on WebAssembly](https://blog.suborbital.dev/building-for-a-future-based-on-webassembly)
 
 - [[Krustlet] Introducing Krustlet, the WebAssembly Kubelet](https://deislabs.io/posts/introducing-krustlet/)
