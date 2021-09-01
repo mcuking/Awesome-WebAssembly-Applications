@@ -55,6 +55,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
 
+- [[Unreal Engine 4] Setting up UE4 for HTML5 development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/HTML5/GettingStarted/)
+
 ### Native App Ported
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
