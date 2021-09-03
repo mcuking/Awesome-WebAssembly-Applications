@@ -69,6 +69,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
+- [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
+
 ### Containerisation 
 
 - [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
