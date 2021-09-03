@@ -61,6 +61,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[BananaBread] BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML](https://github.com/kripken/BananaBread)
 
+- [[Pont] Pont - a multiplayer board game in Rust and WebAssembly](https://www.mattkeeter.com/projects/pont/)
+
 ### Native App Ported
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
