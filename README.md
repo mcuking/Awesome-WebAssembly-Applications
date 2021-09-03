@@ -39,6 +39,8 @@ A Curated List of Awesome WebAssembly Application
  
 - [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
+- [[Streem] Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
+
 ### Visualization
 
 - [[Webamp] Speeding Up Webamp’s Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
