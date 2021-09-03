@@ -57,6 +57,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Unreal Engine 4] Setting up UE4 for HTML5 development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/HTML5/GettingStarted/)
 
+- [[BananaBread] BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML](https://github.com/kripken/BananaBread)
+
 ### Native App Ported
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
