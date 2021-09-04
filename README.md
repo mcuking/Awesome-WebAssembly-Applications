@@ -103,6 +103,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Tokamak] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms](https://github.com/TokamakUI/Tokamak)
 
+- [[Prism] Prism - Build frontend web apps with Ruby and WebAssembly](https://github.com/prism-rb/prism)
+
 ### Scientific Calculator
 
 - [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
