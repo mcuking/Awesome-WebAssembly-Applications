@@ -151,6 +151,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[NEAR] A blockchain that runs smart contracts on a WebAssembly Virtual Machine](https://docs.near.org/docs/develop/contracts/overview)
 
+- [[Spacemesh] Spacemesh WebAssembly VM](https://medium.com/spacemesh/svm-446b106025bd)
+
 ### Plugin System
 
 - [[Zellij] Zellij - A terminal workspace, with wasm plugin system](https://github.com/zellij-org/zellij)
