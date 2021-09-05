@@ -43,7 +43,6 @@ A Curated List of Awesome WebAssembly Application
  
 - [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
-
 ### Visualization
 
 - [[Webamp] Speeding Up Webamp’s Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
@@ -81,6 +80,8 @@ A Curated List of Awesome WebAssembly Application
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
+
+- [[SOD] Porting a Face Detector Written in C to WebAssembly](https://sod.pixlab.io/articles/porting-c-face-detector-webassembly.html)
 
 ### Containerisation 
 
