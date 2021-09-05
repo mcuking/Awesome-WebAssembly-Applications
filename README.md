@@ -23,17 +23,19 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
 
-### Media Editor
+### Image Editor
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
 
-- [[Squoosh] Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
-
 - [[Photon] Photon - Image Processing in WebAssembly](https://silvia-odwyer.github.io/photon/)
 
-- [[Mastershot] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
+- [[Squoosh] Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
 
 - [[Discourse] Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG](https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/)
+
+### Video Editor
+
+- [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
 - [[FFmpeg.wasm] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
  
@@ -41,7 +43,6 @@ A Curated List of Awesome WebAssembly Application
  
 - [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
-- [[Streem] Using Rust and WebAssembly to Process Pixels from a Video Feed](https://dev.to/fallenstedt/using-rust-and-webassembly-to-process-pixels-from-a-video-feed-4hhg)
 
 ### Visualization
 
