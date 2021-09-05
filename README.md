@@ -66,6 +66,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[Pont] Pont - a multiplayer board game in Rust and WebAssembly](https://www.mattkeeter.com/projects/pont/)
 
+- [[Citybound] A work-in-progress, open-source, multi-player city simulation game](https://aeplay.org/citybound)
+
 ### Native App Ported
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
