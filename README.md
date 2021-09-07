@@ -93,6 +93,8 @@ A Curated List of Awesome WebAssembly Application
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
 
+- [[ONNX.js] ONNX.js machine learning with WebAssembly](https://github.com/Microsoft/onnxjs)
+
 ### Fat Client for Enterprise Applications (e.g. databases)
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
