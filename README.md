@@ -35,6 +35,8 @@ A Curated List of Awesome WebAssembly Applications
 
 ### Video Editor
 
+- [[Clipchamp] Clipchamp's video editor PWA installs see a 97% monthly growth](https://clipchamp.com/en/blog/clipchamp-pwa-case-study/)
+
 - [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
 - [[FFmpeg.wasm] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
