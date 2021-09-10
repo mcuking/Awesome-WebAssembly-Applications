@@ -23,7 +23,7 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
 
-### Image Editor
+### Image Processing
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
 
@@ -33,9 +33,11 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Discourse] Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG](https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/)
 
-### Video Editor
+### Video/Audio Processing
 
 - [[Clipchamp] Clipchamp's video editor PWA installs see a 97% monthly growth](https://clipchamp.com/en/blog/clipchamp-pwa-case-study/)
+
+- [[Picovoice] Offline Voice AI in a Web Browser](https://picovoice.ai/blog/offline-voice-ai-in-a-web-browser/)
 
 - [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
