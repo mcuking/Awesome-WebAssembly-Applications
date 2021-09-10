@@ -83,6 +83,8 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Qt] Qt for WebAssembly](https://www.qt.io/blog/2018/05/22/qt-for-webassembly)
 
+- [[vim.wasm] Vim editor ported to WebAssembly](https://github.com/rhysd/vim.wasm)
+
 - [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
