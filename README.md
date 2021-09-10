@@ -1,6 +1,6 @@
 # Awesome-WebAssembly-Application
 
-A Curated List of Awesome WebAssembly Application
+A Curated List of Awesome WebAssembly Applications
 
 ## Inside the browser
 
@@ -52,6 +52,8 @@ A Curated List of Awesome WebAssembly Application
 - [[SciCharts] SciCharts Audio Analyzer Demo](https://demo.scichart.com/javascript-audio-analyzer-fft-example)
 
 - [[Project Glitter] Project Glitter - Music Visualisation](https://benglin.github.io/project-glitter/)
+
+- [[Perspective] Streaming pivot visualization via WebAssembly](https://github.com/finos/perspective/)
 
 ### Games
 
