@@ -1,4 +1,4 @@
-# Awesome-WebAssembly-Application
+# Awesome-WebAssembly-Applications
 
 A Curated List of Awesome WebAssembly Applications
 
@@ -66,6 +66,8 @@ A Curated List of Awesome WebAssembly Applications
 - [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
 
 - [[Unreal Engine 4] Setting up UE4 for HTML5 development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/HTML5/GettingStarted/)
+
+- [[Defold] A 2D gaming engine for writing web-based games](https://forum.defold.com/t/defold-1-2-141-has-been-released/33996)
 
 - [[BananaBread] BananaBread is a C++ 3D game engine that runs on the web using JavaScript+WebGL+HTML](https://github.com/kripken/BananaBread)
 
