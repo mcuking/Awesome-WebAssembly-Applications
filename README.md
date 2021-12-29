@@ -145,6 +145,8 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Vino] Vino - Code less, build more](https://vino.dev/)
 
+- [[Easegress] How to do an online flash sale event with Easegress and WebAssembly](https://megaease.com/blog/2021/09/08/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly/)
+
 ### IoT
 
 - [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
