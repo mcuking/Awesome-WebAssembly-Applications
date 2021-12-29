@@ -49,6 +49,8 @@ A Curated List of Awesome WebAssembly Applications
 
 ### Visualization
 
+- [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
+
 - [[Webamp] Speeding Up Webamp’s Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
 
 - [[Webcola] Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
@@ -75,31 +77,17 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Citybound] A work-in-progress, open-source, multi-player city simulation game](https://aeplay.org/citybound)
 
-### Native App Ported
+### Online Productive Tools
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
 
-- [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
-
-- [[LibreOffice] LibreOffice team working on WebAssembly port](https://www.theregister.com/2021/02/16/libreoffice_team_working_on_port/)
-
-- [[PSPDFKit] WebAssembly: A New Hope](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
-
-- [[Qt] Qt for WebAssembly](https://www.qt.io/blog/2018/05/22/qt-for-webassembly)
+- [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
 
 - [[vim.wasm] Vim editor ported to WebAssembly](https://github.com/rhysd/vim.wasm)
 
-- [[Uno Platform] NuGet Package Explorer is now a Web App powered by Uno Platform](https://platform.uno/blog/nuget-package-explorer-is-now-a-web-app-powered-by-uno-platform/)
+- [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
-
-- [[SOD] Porting a Face Detector Written in C to WebAssembly](https://sod.pixlab.io/articles/porting-c-face-detector-webassembly.html)
-
-### Containerisation 
-
-- [[StackBlitz] Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
-
-- [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
 ### Machine Learning
 
@@ -107,7 +95,7 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[ONNX.js] ONNX.js machine learning with WebAssembly](https://github.com/Microsoft/onnxjs)
 
-### Fat Client for Enterprise Applications (e.g. databases)
+### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
 
@@ -129,17 +117,9 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[NoteCalc] NoteCalc is a handy notepad with a smart builtin calculator](https://bbodi.github.io/notecalc3/)
 
-### Physics Engine
-
-- [[LiquidFun] Fluid simulation in liquidfun-wasm](https://birchlabs.co.uk/liquidfun-wasm/)
-
 ### Code Protect
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
-
-### Shell
-
-- [[wasi-fs-access] WebAssembly shell with real file system access](https://wasi.rreverser.com/)
 
 ## Outside the browser
 
