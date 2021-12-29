@@ -46,6 +46,8 @@ A Curated List of Awesome WebAssembly Applications
 - [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
 - [[FFmpeg.wasm] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
+
+- [[Agora] 如何通过 WebAssembly 在 Web 进行实时视频人像分割](https://www.agora.io/cn/community/blog-121-category-21976)
  
 - [[腾讯 IMWeb] 使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
  
