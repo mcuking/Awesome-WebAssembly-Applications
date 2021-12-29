@@ -25,6 +25,8 @@ A Curated List of Awesome WebAssembly Applications
 
 ### Image Processing
 
+- [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
+
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
 
 - [[Photon] Photon - Image Processing in WebAssembly](https://silvia-odwyer.github.io/photon/)
