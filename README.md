@@ -147,6 +147,8 @@ A Curated List of Awesome WebAssembly Applications
 
 - [[Easegress] How to do an online flash sale event with Easegress and WebAssembly](https://megaease.com/blog/2021/09/08/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly/)
 
+- [[MOSN] WebAssembly 在 MOSN 中的实践 - 基础框架篇](https://mosn.io/blog/posts/mosn-wasm-framework/)
+
 ### IoT
 
 - [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
