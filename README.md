@@ -1,6 +1,8 @@
 # Awesome-WebAssembly-Applications
 
-A Curated List of Awesome WebAssembly Applications
+**A Curated List of Awesome WebAssembly Applications**
+
+Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ## Inside the browser
 
@@ -114,8 +116,6 @@ A Curated List of Awesome WebAssembly Applications
 - [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 - [[Tokamak] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms](https://github.com/TokamakUI/Tokamak)
-
-- [[Prism] Prism - Build frontend web apps with Ruby and WebAssembly](https://github.com/prism-rb/prism)
 
 ### Scientific Calculator
 
