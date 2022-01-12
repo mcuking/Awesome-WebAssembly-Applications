@@ -6,28 +6,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ## Inside the browser
 
-### Media Player
-
-- [[BBC iPlayer] Building a WebAssembly Runtime for BBC iPlayer](https://medium.com/bbc-design-engineering/building-a-webassembly-runtime-for-bbc-iplayer-and-enhanced-audience-experiences-7087455808ef)
-
-- [[Zoom] Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
-
-- [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
-
-- [[淘宝直播] Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
-- [[爱奇艺直播] 爱奇艺直播 WebAssembly 优化之路](https://mp.weixin.qq.com/s/LRGNOuFwHXALs_lhPyN3Zw)
-
-- [[花椒直播] 花椒前端基于WebAssembly 的 H.265 播放器研发](https://zhuanlan.zhihu.com/p/73772711)
-
-- [[NOW 直播] 基于 WebAssembly的 H.265 播放器](https://developer.aliyun.com/article/747663)
-
-- [[WXInlinePlayer] WXInlinePlayer：高性能 WASM 播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
-
-- [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
-
-- [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
-
-### Image Processing
+### Media
 
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
@@ -39,7 +18,19 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Discourse] Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG](https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/)
 
-### Video/Audio Processing
+- [[Zoom] Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
+
+- [[Agora] 如何通过 WebAssembly 在 Web 进行实时视频人像分割](https://www.agora.io/cn/community/blog-121-category-21976)
+
+- [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
+
+- [[FFmpeg.wasm] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
+
+- [[BBC iPlayer] Building a WebAssembly Runtime for BBC iPlayer](https://medium.com/bbc-design-engineering/building-a-webassembly-runtime-for-bbc-iplayer-and-enhanced-audience-experiences-7087455808ef)
+
+- [[WXInlinePlayer] WXInlinePlayer：高性能 WASM 播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+
+- [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
 
 - [[Clipchamp] Clipchamp's video editor PWA installs see a 97% monthly growth](https://clipchamp.com/en/blog/clipchamp-pwa-case-study/)
 
@@ -47,9 +38,15 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
-- [[FFmpeg.wasm] In-browser transcoding of video files with FFmpeg and WebAssembly](https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html)
+- [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
 
-- [[Agora] 如何通过 WebAssembly 在 Web 进行实时视频人像分割](https://www.agora.io/cn/community/blog-121-category-21976)
+- [[淘宝直播] Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
+
+- [[爱奇艺直播] 爱奇艺直播 WebAssembly 优化之路](https://mp.weixin.qq.com/s/LRGNOuFwHXALs_lhPyN3Zw)
+
+- [[花椒直播] 花椒前端基于WebAssembly 的 H.265 播放器研发](https://zhuanlan.zhihu.com/p/73772711)
+
+- [[NOW 直播] 基于 WebAssembly的 H.265 播放器](https://developer.aliyun.com/article/747663)
  
 - [[腾讯 IMWeb] 使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
  
