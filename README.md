@@ -130,6 +130,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Fermyon] Introducing Spin](https://www.fermyon.com/blog/introducing-spin)
 
+- [[Wasm Workers Server] Run your workers anywhere with WebAssembly](https://wasmlabs.dev/articles/run-workers-anywhere/)
+
 - [[Cloudflare] WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 
 - [[Fastly] Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
