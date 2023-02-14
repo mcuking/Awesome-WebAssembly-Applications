@@ -126,7 +126,9 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ## Outside the browser
 
-### Serverless
+### Cloud
+
+- [[Fermyon] Introducing Spin](https://www.fermyon.com/blog/introducing-spin)
 
 - [[Cloudflare] WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 
