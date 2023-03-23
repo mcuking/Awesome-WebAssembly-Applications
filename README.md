@@ -150,6 +150,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[MOSN] WebAssembly 在 MOSN 中的实践 - 基础框架篇](https://mosn.io/blog/posts/mosn-wasm-framework/)
 
+- [[Cosmonic] Cosmonic - Imagine. Create. Scale.](https://cosmonic.com/)
+
 ### IoT
 
 - [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
