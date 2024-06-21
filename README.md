@@ -108,6 +108,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Frontend Web App
 
+- [[twr-wasm] Easy library for integrating C/C++ into browser apps](https://github.com/twiddlingbits/twr-wasm)
 - [[Yew] Rust / Wasm framework for building client web apps](https://yew.rs/)
 
 - [[Blazor] Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
