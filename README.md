@@ -121,6 +121,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[NoteCalc] NoteCalc is a handy notepad with a smart builtin calculator](https://bbodi.github.io/notecalc3/)
 
+- [[Yutovo] Yutovo is a visual scientific calculator inside a text editor](https://yutovo.com/)
+
 ### Code Protect
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
