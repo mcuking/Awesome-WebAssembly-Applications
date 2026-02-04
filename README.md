@@ -66,6 +66,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Perspective] Streaming pivot visualization via WebAssembly](https://github.com/finos/perspective/)
 
+- [[Room Modes Simulator] FEM acoustic solver running in-browser using WebAssembly.](https://yacineazmi.com/room-modes/)
+
 ### Games
 
 - [[GLAS] GLAS = WebGL + Assembly Script(WASM);](https://dev.to/zoedreams/glas-webgl-assembly-script-wasm-i40)
