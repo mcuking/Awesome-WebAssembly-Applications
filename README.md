@@ -96,6 +96,10 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
 
+- [[PDFGem] Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, redact, watermark. All processing via WebAssembly; files never leave the browser.](https://pdfgem.io/)
+
+- [[Vizua] Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all powered by WebAssembly; no server uploads.](https://vizua.io/)
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
