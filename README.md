@@ -52,6 +52,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
  
 - [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
+- [[Convert.rocks] Free browser-based file converter — HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
