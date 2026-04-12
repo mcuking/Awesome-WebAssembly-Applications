@@ -16,6 +16,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Squoosh] Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
 
+- [[SammaPix] 27 browser-based image tools using WASM for AI background removal (RMBG-1.4 via ONNX Runtime Web) and JPEG XL encoding](https://www.sammapix.com)
+
 - [[Discourse] Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG](https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/)
 
 - [[Zoom] Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
