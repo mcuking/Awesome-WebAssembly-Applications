@@ -125,6 +125,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Tokamak] SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms](https://github.com/TokamakUI/Tokamak)
 
+- [[KubeStellar Console] AI-powered multi-cluster Kubernetes dashboard using SQLite WASM for persistent client-side caching](https://github.com/kubestellar/console)
+
 ### Scientific Calculator
 
 - [[kalker] Kallker is a feature-rich scientific calculator that runs in the browser](https://kalker.strct.net/)
