@@ -2,7 +2,7 @@
 
 **A Curated List of Awesome WebAssembly Applications**
 
-Welcome PR if you find some Awsome WebAssembly Applications ð¤£
+Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ## Inside the browser
 
@@ -23,7 +23,7 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[Zoom] Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
 
-- [[Agora] å¦ä½éè¿ WebAssembly å¨ Web è¿è¡å®æ¶è§é¢äººååå²](https://www.agora.io/cn/community/blog-121-category-21976)
+- [[Agora] 如何通过 WebAssembly 在 Web 进行实时视频人像分割](https://www.agora.io/cn/community/blog-121-category-21976)
 
 - [[Google Meet] Background Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
 
@@ -31,7 +31,7 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[BBC iPlayer] Building a WebAssembly Runtime for BBC iPlayer](https://medium.com/bbc-design-engineering/building-a-webassembly-runtime-for-bbc-iplayer-and-enhanced-audience-experiences-7087455808ef)
 
-- [[WXInlinePlayer] WXInlinePlayerï¼é«æ§è½ WASM æ­æ¾å¨å®ç°](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
+- [[WXInlinePlayer] WXInlinePlayer：高性能 WASM 播放器实现](https://github.com/ErosZy/md/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0/%E9%AB%98%E6%80%A7%E8%83%BDWASM%E6%92%AD%E6%94%BE%E5%99%A8%E5%AE%9E%E7%8E%B0.md)
 
 - [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
 
@@ -41,27 +41,27 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[Mastershot] Mastershot is a web-based video editor, based on the WebAssembly version of FFmpeg](https://mastershot.app/)
 
-- [[æ·å®ç´æ­] ä» Chrome æºç  video å®ç°å° Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
+- [[淘宝直播] 从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
 
-- [[æ·å®ç´æ­] Webç«¯H.265æ­æ¾å¨ç åè§£å¯](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
+- [[淘宝直播] Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)
 
-- [[ç±å¥èºç´æ­] ç±å¥èºç´æ­ WebAssembly ä¼åä¹è·¯](https://mp.weixin.qq.com/s/LRGNOuFwHXALs_lhPyN3Zw)
+- [[爱奇艺直播] 爱奇艺直播 WebAssembly 优化之路](https://mp.weixin.qq.com/s/LRGNOuFwHXALs_lhPyN3Zw)
 
-- [[è±æ¤ç´æ­] è±æ¤åç«¯åºäºWebAssembly ç H.265 æ­æ¾å¨ç å](https://zhuanlan.zhihu.com/p/73772711)
+- [[花椒直播] 花椒前端基于WebAssembly 的 H.265 播放器研发](https://zhuanlan.zhihu.com/p/73772711)
 
-- [[NOW ç´æ­] åºäº WebAssemblyç H.265 æ­æ¾å¨](https://developer.aliyun.com/article/747663)
+- [[NOW 直播] 基于 WebAssembly的 H.265 播放器](https://developer.aliyun.com/article/747663)
  
-- [[è¾è®¯ IMWeb] ä½¿ç¨ FFmpeg ä¸ WebAssembly å®ç°çº¯åç«¯è§é¢æªå¸§](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
+- [[腾讯 IMWeb] 使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
  
-- [[è¾è®¯ IMWeb] çåç«¯å¦ä½éè¿ WebAssembly å®ç°æ­æ¾å¨é¢è§è½å](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
+- [[腾讯 IMWeb] 看前端如何通过 WebAssembly 实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
 
-- [[Convert.rocks] Free browser-based file converter â HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
+- [[Convert.rocks] Free browser-based file converter — HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
 
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
 
-- [[Webamp] Speeding Up Webampâs Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
+- [[Webamp] Speeding Up Webamp’s Music Visualizer with WebAssembly](https://jordaneldredge.com/blog/speeding-up-winamps-music-visualizer-with-webassembly/)
 
 - [[Webcola] Speeding Up the Webcola Graph Viz Library with Rust + WebAssembly](https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/)
 
@@ -77,7 +77,7 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[GLAS] GLAS = WebGL + Assembly Script(WASM);](https://dev.to/zoedreams/glas-webgl-assembly-script-wasm-i40)
 
-- [[ç½é¹­å¼æ] WebAssembly å¨ç½é¹­å¼æ5.0ä¸­çå®è·µ](https://zhuanlan.zhihu.com/p/30513129)
+- [[白鹭引擎] WebAssembly 在白鹭引擎5.0中的实践](https://zhuanlan.zhihu.com/p/30513129)
 
 - [[Unreal Engine 4] Setting up UE4 for HTML5 development](https://docs.unrealengine.com/4.27/en-US/SharingAndReleasing/HTML5/GettingStarted/)
 
@@ -97,13 +97,13 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[vim.wasm] Vim editor ported to WebAssembly](https://github.com/rhysd/vim.wasm)
 
-- [[Jupyter] JupyterLite: Jupyter â¤ï¸ WebAssembly â¤ï¸ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
+- [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
 
-- [[PDFGem] Free browser-based PDF tools â merge, split, compress, OCR, sign, convert, redact, watermark. All processing via WebAssembly; files never leave the browser.](https://pdfgem.io/)
+- [[PDFGem] Free browser-based PDF tools — merge, split, compress, OCR, sign, convert, redact, watermark. All processing via WebAssembly; files never leave the browser.](https://pdfgem.io/)
 
-- [[Vizua] Free browser-based image tools â compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all powered by WebAssembly; no server uploads.](https://vizua.io/)
+- [[Vizua] Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all powered by WebAssembly; no server uploads.](https://vizua.io/)
 
 ### Machine Learning
 
@@ -115,7 +115,7 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
 
-- [[é£ä¹¦] é£ä¹¦ WASM å®è·µââSQLite ç¯](https://juejin.cn/post/6986579588075913223)
+- [[飞书] 飞书 WASM 实践——SQLite 篇](https://juejin.cn/post/6986579588075913223)
 
 ### Frontend Web App
 
@@ -138,7 +138,7 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 ### Code Protect
 
-- [[JSVMP] åºäº WebAssembly ç JavaScript ä»£ç èæåä¿æ¤æ¹æ³ç ç©¶ä¸å®ç°](https://www.docin.com/p-2280105277.html)
+- [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
 
 ## Outside the browser
 
@@ -150,27 +150,27 @@ Welcome PR if you find some Awsome WebAssembly Applications ð¤£
 
 - [[Cloudflare] WebAssembly on Cloudflare Workers](https://blog.cloudflare.com/webassembly-on-cloudflare-workers/)
 
-- [[Fastly] Announcing Lucet: Fastlyâs native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
+- [[Fastly] Announcing Lucet: Fastly’s native WebAssembly compiler and runtime](https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime)
 
 - [[Atmo] Building for a future based on WebAssembly](https://blog.suborbital.dev/building-for-a-future-based-on-webassembly)
 
 - [[Krustlet] Introducing Krustlet, the WebAssembly Kubelet](https://deislabs.io/posts/introducing-krustlet/)
 
-- [[WasmEdge] åæ¢ WebAssembly å¨ serverless ä¸­çåºç¨](https://zhuanlan.zhihu.com/p/297753460)
+- [[WasmEdge] 初探 WebAssembly 在 serverless 中的应用](https://zhuanlan.zhihu.com/p/297753460)
 
-- [[Kubernetes] WebAssembly ä¸ Kubernetes åååç§](https://developer.aliyun.com/article/744310)
+- [[Kubernetes] WebAssembly 与 Kubernetes 双剑合璧](https://developer.aliyun.com/article/744310)
 
 - [[Vino] Vino - Code less, build more](https://vino.dev/)
 
 - [[Easegress] How to do an online flash sale event with Easegress and WebAssembly](https://megaease.com/blog/2021/09/08/how-to-do-an-online-flash-sale-event-with-easegress-and-webassembly/)
 
-- [[MOSN] WebAssembly å¨ MOSN ä¸­çå®è·µ - åºç¡æ¡æ¶ç¯](https://mosn.io/blog/posts/mosn-wasm-framework/)
+- [[MOSN] WebAssembly 在 MOSN 中的实践 - 基础框架篇](https://mosn.io/blog/posts/mosn-wasm-framework/)
 
 - [[Cosmonic] Cosmonic - Imagine. Create. Scale.](https://cosmonic.com/)
 
 ### IoT
 
-- [[å¤©ç«ç²¾çµ] åºäº WebAssembly ç AIoT åºç¨æ¡æ¶å®è·µ](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
+- [[天猫精灵] 基于 WebAssembly 的 AIoT 应用框架实践](https://mp.weixin.qq.com/s/-7K2XpVFrZ2R3Wdwtc8GXw)
 
 ### Blockchain
 
