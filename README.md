@@ -7,6 +7,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 ## Inside the browser
 
 ### Media
+- [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
