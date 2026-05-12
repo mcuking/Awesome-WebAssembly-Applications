@@ -9,6 +9,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 ### Media
 - [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
+- [Tonalux](https://tonalux.org/) — Browser-based audio production platform featuring a WebAssembly-powered media converter (FFmpeg.wasm), spectrum analyzer and plugin comparer. All processing happens locally in the browser.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
