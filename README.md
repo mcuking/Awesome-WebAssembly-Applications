@@ -21,6 +21,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[SammaPix] 27 browser-based image tools using WASM for AI background removal (RMBG-1.4 via ONNX Runtime Web) and JPEG XL encoding](https://www.sammapix.com)
 
+- [[IDPhotoSnap] Browser-only passport and visa photo maker using WebAssembly. Background segmentation via BRIA RMBG-1.4 (ONNX), face landmark detection via face-api.js, geometric cropping via Canvas API. 100 countries, 248 document formats validated against 15+ official government sources (US State Dept, UK HMPO, Bundesdruckerei, Indian PSK, Chinese MFA COVA, etc.). Photo never leaves the device, verifiable in DevTools Network tab. Companion open dataset at github.com/whitetirocket/passport-photo-specs.](https://idphotosnap.com)
+
 - [[Discourse] Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG](https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/)
 
 - [[Zoom] Zoom on Web: WebAssembly SIMD, WebTransport, and WebCodecs](https://www.infoq.com/news/2020/08/zoom-web-chrome-apis/)
