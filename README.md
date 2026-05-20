@@ -111,6 +111,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Vizua] Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all powered by WebAssembly; no server uploads.](https://vizua.io/)
 
+- [[PDF Mavericks] 40+ free browser-based PDF tools — compress, merge, split, sign, watermark, redact, OCR, convert. All processing via WebAssembly (pdf-lib + PDF.js); files never leave the device.](https://pdfmavericks.com/)
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
