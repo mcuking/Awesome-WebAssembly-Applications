@@ -82,6 +82,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Room Modes Simulator] FEM acoustic solver running in-browser using WebAssembly.](https://yacineazmi.com/room-modes/)
 
+- [[Grenzwert] In-browser 3D CT/MRI (DICOM) volume viewer with cinematic rendering, via WebAssembly + WebGPU.](https://grenzwert.net)
+
 ### Games
 
 - [[wine-assembly] Run unmodified Win32/Win98 PE executables — Pinball Space Cadet, SkiFree, FreeCell, Solitaire, Minesweeper, Winamp, mspaint — directly in the browser. The interpreter is coded directly in WebAssembly Text (no Rust/C compiler); guest binaries run as-is, no recompilation.](https://wine-assembly.berrry.app)
