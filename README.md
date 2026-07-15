@@ -131,6 +131,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[ONNX.js] ONNX.js machine learning with WebAssembly](https://github.com/Microsoft/onnxjs)
 
+- [[LocalMode] Local-first browser AI toolkit running LLMs, Whisper speech-to-text, Kokoro text-to-speech, CLIP and vision models via WebAssembly and WebGPU, entirely on-device](https://github.com/LocalMode-AI/LocalMode)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
