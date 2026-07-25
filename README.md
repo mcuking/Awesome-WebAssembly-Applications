@@ -24,7 +24,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Squoosh] Replacing a hot path in your app's JavaScript with WebAssembly](https://developers.google.com/web/updates/2019/02/hotpath-with-wasm)
 
-- [[SammaPix] 27 browser-based image tools using WASM for AI background removal (RMBG-1.4 via ONNX Runtime Web) and JPEG XL encoding](https://www.sammapix.com)
+- [[SammaPix] 51 browser-based image, PDF and video tools using WASM: libarchive (RAR/7z/tar.gz), libraw (CR2/NEF/ARW/DNG), JPEG XL encoding, and RMBG-1.4 background removal via ONNX Runtime Web](https://www.sammapix.com)
 
 - [[IDPhotoSnap] Browser-only passport and visa photo maker using WebAssembly. Background segmentation via BRIA RMBG-1.4 (ONNX), face landmark detection via face-api.js, geometric cropping via Canvas API. 100 countries, 248 document formats validated against 15+ official government sources (US State Dept, UK HMPO, Bundesdruckerei, Indian PSK, Chinese MFA COVA, etc.). Photo never leaves the device, verifiable in DevTools Network tab. Companion open dataset at github.com/whitetirocket/passport-photo-specs.](https://idphotosnap.com)
 
