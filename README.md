@@ -124,6 +124,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [ConvertiZen](https://convertizen.netlify.app) - Privacy-friendly document converter (PDF, Word, Excel, images) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 - [hushvert](https://hushvert.com) - Privacy-first file converter (images incl. HEIC/JPEG XL, PDF page operations, archives, audio, small video) running entirely in the browser via WebAssembly. No file uploads, no server processing.
+- [gottrix](https://gottrix.app/en/merge-pdf) - Client-side file conversion suite (500+ tools: PDF, image, audio, video, data formats) built on WebAssembly. No uploads, works offline after first visit, 25+ languages.
 
 ### Machine Learning
 
