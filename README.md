@@ -10,6 +10,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Darkly](https://demo.darkly.art) — An [open-source](https://github.com/darkly-art/darkly), WebGPU-powered photo editor and paint program for digital artists, written in Rust + WebAssembly.
 
+- [LogiSheets](https://www.logisheets.com/) — An [open-source](https://github.com/logisky/LogiSheets), canvas-powered online spreadsheet application.
+
 - [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
 - [IconKing](https://iconking.net) — Free browser-based Lottie animation tool. Preview .json/.lottie files, edit colors across all layers, and convert between Lottie JSON ↔ dotLottie formats. 100% client-side via WebAssembly — files never leave the browser.
