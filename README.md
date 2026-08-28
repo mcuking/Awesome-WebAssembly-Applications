@@ -130,6 +130,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [hushvert](https://hushvert.com) - Privacy-first file converter (images incl. HEIC/JPEG XL, PDF page operations, archives, audio, small video) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 - [gottrix](https://gottrix.app/en/merge-pdf) - Client-side file conversion suite (500+ tools: PDF, image, audio, video, data formats) built on WebAssembly. No uploads, works offline after first visit, 25+ languages.
 - [ArtboardLab](https://artboardlab.com) - Browser-based design tools: image compression and format conversion (MozJPEG, OxiPNG, WebP, AVIF compiled to WebAssembly), plus an Adobe Illustrator .ai viewer and .ai to SVG/PNG/PDF converters built on pdf.js. Everything runs client-side, so files are never uploaded and no account is needed.
+- [A Box of Tools](https://abox.tools) - 35 single-purpose file tools for images, video, audio, PDFs and text, in 15 languages. HEIC and HEIF decoding runs libheif compiled to WebAssembly; the rest is WebCodecs, Canvas and hand-written parsers. Open source (MIT), nothing is uploaded, and every tool installs as a PWA that works offline.
 
 ### Machine Learning
 
