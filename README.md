@@ -164,6 +164,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Yutovo] Yutovo is a visual scientific calculator inside a text editor](https://yutovo.com/)
 
+- [[Vedaksha Playground] Private, client-side Vedic astrology chart calculator powered by a zero-data Rust/WebAssembly ephemeris; all computation stays in the browser](https://vedaksha.net/playground)
+
 ### Code Protect
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
