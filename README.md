@@ -14,6 +14,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
+- [SlingSite](https://slingsite.github.io) — Browser-based image and video compressor using FFmpeg.wasm: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device. No uploads. Free unlimited use.
+
 - [IconKing](https://iconking.net) — Free browser-based Lottie animation tool. Preview .json/.lottie files, edit colors across all layers, and convert between Lottie JSON ↔ dotLottie formats. 100% client-side via WebAssembly — files never leave the browser.
 
 - [Tonalux](https://tonalux.org/) — Browser-based audio production platform featuring a WebAssembly-powered media converter (FFmpeg.wasm), spectrum analyzer and plugin comparer. All processing happens locally in the browser.
