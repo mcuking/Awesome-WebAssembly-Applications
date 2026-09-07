@@ -126,6 +126,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Slay PDF] Free local PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs. Runs in-browser with WebAssembly-powered PDF workflows; files stay on the device.](https://slaypdf.com/)
 
+- [[PDFree] 30+ free browser-based PDF tools — merge, split, compress, OCR, sign, redact, protect, and convert to/from Word/Excel/PowerPoint/Markdown. Client-side via pdf-lib/pdf.js WebAssembly; files never leave the browser. Open source (AGPLv3), 14 languages.](https://pdfree.io)
+
 - [ConvertiZen](https://convertizen.netlify.app) - Privacy-friendly document converter (PDF, Word, Excel, images) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 - [hushvert](https://hushvert.com) - Privacy-first file converter (images incl. HEIC/JPEG XL, PDF page operations, archives, audio, small video) running entirely in the browser via WebAssembly. No file uploads, no server processing.
 - [gottrix](https://gottrix.app/en/merge-pdf) - Client-side file conversion suite (500+ tools: PDF, image, audio, video, data formats) built on WebAssembly. No uploads, works offline after first visit, 25+ languages.
