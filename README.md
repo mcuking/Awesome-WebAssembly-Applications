@@ -138,6 +138,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [A Box of Tools](https://abox.tools) - 35 single-purpose file tools for images, video, audio, PDFs and text, in 15 languages. HEIC and HEIF decoding runs libheif compiled to WebAssembly; the rest is WebCodecs, Canvas and hand-written parsers. Open source (MIT), nothing is uploaded, and every tool installs as a PWA that works offline.
 - [Pixeltools](https://pixeltools.io) - Free suite of browser-based tools for images, video, audio and PDF: compress, convert, resize, merge, remove background, OCR and more. Video and audio run on ffmpeg.wasm; everything is client-side WebAssembly, no uploads, no account.
 - [DBConvert Data Viewers](https://streams.dbconvert.com/parquet-viewer) - Free browser-based viewers for Parquet, [JSONL/NDJSON](https://streams.dbconvert.com/jsonl-viewer) and [SQLite](https://streams.dbconvert.com/sqlite-viewer) files. DuckDB-WASM runs the Parquet and JSONL queries and the official sqlite-wasm build reads the databases, all inside the tab: the file is opened through a browser file handle and never uploaded. Read-only (SELECT), no install, no account.
+- [BrainCoder](https://braincoder.vercel.app) - 123+ free privacy-first browser tools — PDF compress/merge/split/redact/protect, images, JSON/SQL/XML formatters, regex, hashes, generators, converters — on a Rust/WASM (zpdf) PDF core, MIT open source; files never leave the device (proof page at /verify).
 
 ### Machine Learning
 
