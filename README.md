@@ -132,13 +132,22 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[PDFree] 30+ free browser-based PDF tools — merge, split, compress, OCR, sign, redact, protect, and convert to/from Word/Excel/PowerPoint/Markdown. Client-side via pdf-lib/pdf.js WebAssembly; files never leave the browser. Open source (AGPLv3), 14 languages.](https://pdfree.io)
 
 - [ConvertiZen](https://convertizen.netlify.app) - Privacy-friendly document converter (PDF, Word, Excel, images) running entirely in the browser via WebAssembly. No file uploads, no server processing.
+
 - [hushvert](https://hushvert.com) - Privacy-first file converter (images incl. HEIC/JPEG XL, PDF page operations, archives, audio, small video) running entirely in the browser via WebAssembly. No file uploads, no server processing.
+
 - [gottrix](https://gottrix.app/en/merge-pdf) - Client-side file conversion suite (500+ tools: PDF, image, audio, video, data formats) built on WebAssembly. No uploads, works offline after first visit, 25+ languages.
+
 - [ArtboardLab](https://artboardlab.com) - Browser-based design tools: image compression and format conversion (MozJPEG, OxiPNG, WebP, AVIF compiled to WebAssembly), plus an Adobe Illustrator .ai viewer and .ai to SVG/PNG/PDF converters built on pdf.js. Everything runs client-side, so files are never uploaded and no account is needed.
+
 - [A Box of Tools](https://abox.tools) - 35 single-purpose file tools for images, video, audio, PDFs and text, in 15 languages. HEIC and HEIF decoding runs libheif compiled to WebAssembly; the rest is WebCodecs, Canvas and hand-written parsers. Open source (MIT), nothing is uploaded, and every tool installs as a PWA that works offline.
+
 - [Pixeltools](https://pixeltools.io) - Free suite of browser-based tools for images, video, audio and PDF: compress, convert, resize, merge, remove background, OCR and more. Video and audio run on ffmpeg.wasm; everything is client-side WebAssembly, no uploads, no account.
+
 - [DBConvert Data Viewers](https://streams.dbconvert.com/parquet-viewer) - Free browser-based viewers for Parquet, [JSONL/NDJSON](https://streams.dbconvert.com/jsonl-viewer) and [SQLite](https://streams.dbconvert.com/sqlite-viewer) files. DuckDB-WASM runs the Parquet and JSONL queries and the official sqlite-wasm build reads the databases, all inside the tab: the file is opened through a browser file handle and never uploaded. Read-only (SELECT), no install, no account.
+
 - [ConvertSTL](https://convertstl.com) - Free browser-based 3D file converter, viewer and STL toolkit. STEP and IGES are tessellated by OpenCascade compiled to WebAssembly, alongside mesh formats (STL, OBJ, 3MF, PLY, GLB, glTF, FBX, DAE) and vector input (SVG, DXF); there are per-format viewers and STL repair, scale and simplify tools. Nothing is uploaded and no account is needed.
+
+- [BrainCoder](https://braincoder.vercel.app) - 123+ free privacy-first browser tools — PDF compress/merge/split/redact/protect, images, JSON/SQL/XML formatters, regex, hashes, generators, converters — on a Rust/WASM (zpdf) PDF core, MIT open source; files never leave the device (proof page at /verify).
 
 ### Machine Learning
 
