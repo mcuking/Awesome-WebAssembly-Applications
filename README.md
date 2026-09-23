@@ -151,6 +151,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [BrainCoder](https://braincoder.vercel.app) - 123+ free privacy-first browser tools — PDF compress/merge/split/redact/protect, images, JSON/SQL/XML formatters, regex, hashes, generators, converters — on a Rust/WASM (zpdf) PDF core, MIT open source; files never leave the device (proof page at /verify).
 
+- [Vellum](https://vellumpdf.ch/en) - Free browser-based PDF tools — merge, split, compress, OCR, sign, redact, convert to Word, Excel or Markdown — running entirely client-side: qpdf is compiled to WebAssembly for encryption, pdf.js and pdf-lib do the rest. Nothing is uploaded, no account, no watermark, and the site installs as an offline PWA. The engine is MIT open source and also ships as a command-line tool; four languages.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
