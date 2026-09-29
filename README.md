@@ -165,6 +165,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[LocalMode] Local-first browser AI toolkit running LLMs, Whisper speech-to-text, Kokoro text-to-speech, CLIP and vision models via WebAssembly and WebGPU, entirely on-device](https://github.com/LocalMode-AI/LocalMode)
 
+- [[Remove Audio: Background Noise Remover] Removes background noise from video and audio in the browser with the DeepFilterNet3 model running on WebAssembly; the file stays on the device, no account](https://remove-audio.com/tools/remove-background-noise)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
