@@ -73,6 +73,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Convert.rocks] Free browser-based file converter — HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
 
+- [[StayPut] Open-source image, PDF and video toolkit built on WebAssembly (libheif, libjxl, libavif, pdf.js, ONNX Runtime Web, MediaPipe): HEIC conversion, compression, EXIF/GPS removal, face blur, PDF merge/split/sign. Runs client-side; no uploads, no accounts.](https://stayput.dev)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
