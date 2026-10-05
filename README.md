@@ -157,6 +157,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
+- [BlockWerk](https://blockwerk.tech) - Browser-based block diagram simulator for control systems and dynamic system modelling. A Rust/WebAssembly engine runs RK4, RK45 (Dormand–Prince) and TR-BDF2 stiff solvers in a Web Worker, streaming results to the UI through a SharedArrayBuffer for 60 FPS scopes. No install, no account; projects stay in the browser.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
