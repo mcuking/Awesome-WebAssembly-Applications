@@ -157,6 +157,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
+- [NilPDF](https://nilpdf.com) - Free PDF toolkit (merge, split, compress, redact, and a check for text hiding under redaction boxes) that runs Python (pypdf) on Pyodide/WebAssembly in a Web Worker. No uploads and no account, works offline after the first load. Open source (MIT).
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
