@@ -157,6 +157,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
+- [Fullbleed](https://docs.fullbleed.dev/assets/browser-demo/index.html) - Create PDF invoices and reports from editable HTML/CSS using a Rust engine compiled to WebAssembly. Runs in a browser worker with PNG previews and PDF downloads; includes a complete MIT-licensed application project.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
