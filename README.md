@@ -23,6 +23,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FreeBookConvert](https://freebookconvert.com) — An [open-source](https://github.com/andrewnakas/freebookconvert) set of in-browser converters for EPUB, PDF, HEIC and images, plus audiobook tools: MP3 ⇄ M4B with chapters via FFmpeg.wasm and ebook-to-audiobook narration with Kokoro-82M. Files never leave the browser.
 
+- [Rawnd](https://rawnd.app) — Camera RAW photo editor in the browser: a Rust decoder compiled to WebAssembly and a WebGL2 pipeline cull and develop RAW files locally, with no upload.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
