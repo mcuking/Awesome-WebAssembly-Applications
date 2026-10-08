@@ -159,6 +159,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
+- [SPOTTOOLS](https://spottools.co) - 140+ free browser-based tools for images, PDFs and text: compress, resize and convert images (including HEIC), merge, split and convert PDFs, and more. PDF rendering uses PDF.js, whose worker runs WebAssembly for some of the image codecs inside a PDF; HEIC decoding uses a JavaScript build of libheif. Files are processed locally in the browser and never uploaded, no account needed.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
