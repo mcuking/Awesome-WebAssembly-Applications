@@ -23,6 +23,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FreeBookConvert](https://freebookconvert.com) — An [open-source](https://github.com/andrewnakas/freebookconvert) set of in-browser converters for EPUB, PDF, HEIC and images, plus audiobook tools: MP3 ⇄ M4B with chapters via FFmpeg.wasm and ebook-to-audiobook narration with Kokoro-82M. Files never leave the browser.
 
+- [Rawnd](https://rawnd.app) — Camera RAW photo editor in the browser: a Rust decoder compiled to WebAssembly and a WebGL2 pipeline cull and develop RAW files locally, with no upload.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
@@ -73,6 +75,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Convert.rocks] Free browser-based file converter — HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
 
+- [[StayPut] Open-source image, PDF and video toolkit built on WebAssembly (libheif, libjxl, libavif, pdf.js, ONNX Runtime Web, MediaPipe): HEIC conversion, compression, EXIF/GPS removal, face blur, PDF merge/split/sign. Runs client-side; no uploads, no accounts.](https://stayput.dev)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
@@ -92,6 +96,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[Grenzwert] In-browser 3D CT/MRI (DICOM) volume viewer with cinematic rendering, via WebAssembly + WebGPU.](https://grenzwert.net)
 
 ### Games
+
+- [[macemu] Classic Macintosh games and System 6, System 7 and Mac OS 8.6 in the browser: Mini vMac, Basilisk II and SheepShaver compiled to WebAssembly boot real disk images streamed in 256 KB chunks, with 120+ preserved titles (The Oregon Trail, SimCity, Escape Velocity) one click from playing.](https://macemu.com)
 
 - [[Caso Abierto] A noir detective game where you solve cases by writing SQL, running DuckDB-WASM in the browser against Parquet case files](https://caso-abierto.christianvadillo.workers.dev)
 
@@ -156,6 +162,14 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [Vellum](https://vellumpdf.ch/en) - Free browser-based PDF tools — merge, split, compress, OCR, sign, redact, convert to Word, Excel or Markdown — running entirely client-side: qpdf is compiled to WebAssembly for encryption, pdf.js and pdf-lib do the rest. Nothing is uploaded, no account, no watermark, and the site installs as an offline PWA. The engine is MIT open source and also ships as a command-line tool; four languages.
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+
+- [SPOTTOOLS](https://spottools.co) - 140+ free browser-based tools for images, PDFs and text: compress, resize and convert images (including HEIC), merge, split and convert PDFs, and more. PDF rendering uses PDF.js, whose worker runs WebAssembly for some of the image codecs inside a PDF; HEIC decoding uses a JavaScript build of libheif. Files are processed locally in the browser and never uploaded, no account needed.
+
+- [VantorKit](https://vantorkit.com) - 32 privacy-first in-browser utilities running 100% client-side via WebAssembly (media processing, conversions) and Web Crypto API. No files uploaded, zero server processing.
+
+- [NilPDF](https://nilpdf.com) - Free PDF toolkit (merge, split, compress, redact, and a check for text hiding under redaction boxes) that runs Python (pypdf) on Pyodide/WebAssembly in a Web Worker. No uploads and no account, works offline after the first load. Open source (MIT).
+
+- [BlockWerk](https://blockwerk.tech) - Browser-based block diagram simulator for control systems and dynamic system modelling. A Rust/WebAssembly engine runs RK4, RK45 (Dormand–Prince) and TR-BDF2 stiff solvers in a Web Worker, streaming results to the UI through a SharedArrayBuffer for 60 FPS scopes. No install, no account; projects stay in the browser.
 
 - [Fullbleed](https://docs.fullbleed.dev/assets/browser-demo/index.html) - Create PDF invoices and reports from editable HTML/CSS using a Rust engine compiled to WebAssembly. Runs in a browser worker with PNG previews and PDF downloads; includes a complete MIT-licensed application project.
 
