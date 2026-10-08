@@ -97,6 +97,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Games
 
+- [[macemu] Classic Macintosh games and System 6, System 7 and Mac OS 8.6 in the browser: Mini vMac, Basilisk II and SheepShaver compiled to WebAssembly boot real disk images streamed in 256 KB chunks, with 120+ preserved titles (The Oregon Trail, SimCity, Escape Velocity) one click from playing.](https://macemu.com)
+
 - [[Caso Abierto] A noir detective game where you solve cases by writing SQL, running DuckDB-WASM in the browser against Parquet case files](https://caso-abierto.christianvadillo.workers.dev)
 
 - [[wine-assembly] Run unmodified Win32/Win98 PE executables — Pinball Space Cadet, SkiFree, FreeCell, Solitaire, Minesweeper, Winamp, mspaint — directly in the browser. The interpreter is coded directly in WebAssembly Text (no Rust/C compiler); guest binaries run as-is, no recompilation.](https://wine-assembly.berrry.app)
