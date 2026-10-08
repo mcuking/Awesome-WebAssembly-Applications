@@ -161,6 +161,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [SPOTTOOLS](https://spottools.co) - 140+ free browser-based tools for images, PDFs and text: compress, resize and convert images (including HEIC), merge, split and convert PDFs, and more. PDF rendering uses PDF.js, whose worker runs WebAssembly for some of the image codecs inside a PDF; HEIC decoding uses a JavaScript build of libheif. Files are processed locally in the browser and never uploaded, no account needed.
 
+- [VantorKit](https://vantorkit.com) - 32 privacy-first in-browser utilities running 100% client-side via WebAssembly (media processing, conversions) and Web Crypto API. No files uploaded, zero server processing.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
