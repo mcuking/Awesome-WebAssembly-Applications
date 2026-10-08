@@ -167,6 +167,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [VantorKit](https://vantorkit.com) - 32 privacy-first in-browser utilities running 100% client-side via WebAssembly (media processing, conversions) and Web Crypto API. No files uploaded, zero server processing.
 
+- [NilPDF](https://nilpdf.com) - Free PDF toolkit (merge, split, compress, redact, and a check for text hiding under redaction boxes) that runs Python (pypdf) on Pyodide/WebAssembly in a Web Worker. No uploads and no account, works offline after the first load. Open source (MIT).
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
