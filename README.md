@@ -73,6 +73,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Convert.rocks] Free browser-based file converter — HEIC to JPG, WebP to PNG and more. Uses libheif compiled to WebAssembly via heic-to; all conversions run client-side, no server uploads.](https://www.convert.rocks)
 
+- [[StayPut] Open-source image, PDF and video toolkit built on WebAssembly (libheif, libjxl, libavif, pdf.js, ONNX Runtime Web, MediaPipe): HEIC conversion, compression, EXIF/GPS removal, face blur, PDF merge/split/sign. Runs client-side; no uploads, no accounts.](https://stayput.dev)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
@@ -156,6 +158,10 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [Vellum](https://vellumpdf.ch/en) - Free browser-based PDF tools — merge, split, compress, OCR, sign, redact, convert to Word, Excel or Markdown — running entirely client-side: qpdf is compiled to WebAssembly for encryption, pdf.js and pdf-lib do the rest. Nothing is uploaded, no account, no watermark, and the site installs as an offline PWA. The engine is MIT open source and also ships as a command-line tool; four languages.
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+
+- [SPOTTOOLS](https://spottools.co) - 140+ free browser-based tools for images, PDFs and text: compress, resize and convert images (including HEIC), merge, split and convert PDFs, and more. PDF rendering uses PDF.js, whose worker runs WebAssembly for some of the image codecs inside a PDF; HEIC decoding uses a JavaScript build of libheif. Files are processed locally in the browser and never uploaded, no account needed.
+
+- [VantorKit](https://vantorkit.com) - 32 privacy-first in-browser utilities running 100% client-side via WebAssembly (media processing, conversions) and Web Crypto API. No files uploaded, zero server processing.
 
 - [NilPDF](https://nilpdf.com) - Free PDF toolkit (merge, split, compress, redact, and a check for text hiding under redaction boxes) that runs Python (pypdf) on Pyodide/WebAssembly in a Web Worker. No uploads and no account, works offline after the first load. Open source (MIT).
 
