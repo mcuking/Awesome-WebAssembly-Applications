@@ -156,6 +156,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [Vellum](https://vellumpdf.ch/en) - Free browser-based PDF tools — merge, split, compress, OCR, sign, redact, convert to Word, Excel or Markdown — running entirely client-side: qpdf is compiled to WebAssembly for encryption, pdf.js and pdf-lib do the rest. Nothing is uploaded, no account, no watermark, and the site installs as an offline PWA. The engine is MIT open source and also ships as a command-line tool; four languages.
 
 - [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+
 - [VantorKit](https://vantorkit.com) - 32 privacy-first in-browser utilities running 100% client-side via WebAssembly (media processing, conversions) and Web Crypto API. No files uploaded, zero server processing.
 
 ### Machine Learning
