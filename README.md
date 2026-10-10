@@ -183,6 +183,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Remove Audio: Background Noise Remover] Removes background noise from video and audio in the browser with the DeepFilterNet3 model running on WebAssembly; the file stays on the device, no account](https://remove-audio.com/tools/remove-background-noise)
 
+- [[browser-whisper] TypeScript library for in-browser speech-to-text with Whisper, Moonshine and Distil-Whisper via Transformers.js, running on WebGPU with a WebAssembly fallback; audio never leaves the device](https://github.com/tanpreetjolly/browser-whisper)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
