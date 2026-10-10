@@ -183,6 +183,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Remove Audio: Background Noise Remover] Removes background noise from video and audio in the browser with the DeepFilterNet3 model running on WebAssembly; the file stays on the device, no account](https://remove-audio.com/tools/remove-background-noise)
 
+- [[Leviate] Hand tracking with MediaPipe running as WebAssembly in a web worker: 3D models (STL, PLY, OBJ, GLB, 3MF) turn, pan and zoom with hand gestures through the webcam, entirely on-device](https://vladpereverzyev.github.io/leviate/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
