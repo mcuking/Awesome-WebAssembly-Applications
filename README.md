@@ -187,6 +187,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[browser-whisper] TypeScript library for in-browser speech-to-text with Whisper, Moonshine and Distil-Whisper via Transformers.js, running on WebGPU with a WebAssembly fallback; audio never leaves the device](https://github.com/tanpreetjolly/browser-whisper)
 
+- [[SauceMatch] Reverse video search for adult clips (18+): an SSCD copy-detection network runs in ONNX Runtime Web, and an OpenCV SIFT and MAGSAC matcher compiled to WebAssembly checks each candidate frame in the browser and scores it 0 to 100](https://saucematch.com/how-it-works)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
