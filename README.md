@@ -185,6 +185,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Leviate] Hand tracking with MediaPipe running as WebAssembly in a web worker: 3D models (STL, PLY, OBJ, GLB, 3MF) turn, pan and zoom with hand gestures through the webcam, entirely on-device](https://vladpereverzyev.github.io/leviate/)
 
+- [[browser-whisper] TypeScript library for in-browser speech-to-text with Whisper, Moonshine and Distil-Whisper via Transformers.js, running on WebGPU with a WebAssembly fallback; audio never leaves the device](https://github.com/tanpreetjolly/browser-whisper)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
