@@ -189,6 +189,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[SauceMatch] Reverse video search for adult clips (18+): an SSCD copy-detection network runs in ONNX Runtime Web, and an OpenCV SIFT and MAGSAC matcher compiled to WebAssembly checks each candidate frame in the browser and scores it 0 to 100](https://saucematch.com/how-it-works)
 
+- [[ToolCascade Text to Speech] Kokoro-82M text to speech in the browser through ONNX Runtime Web, on WebGPU with a WebAssembly fallback, and MP3 export with LAME compiled to WebAssembly; the text stays on the device, no account](https://toolcascade.com/tools/text-to-speech)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
