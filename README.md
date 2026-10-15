@@ -173,6 +173,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Fullbleed](https://docs.fullbleed.dev/assets/browser-demo/index.html) - Create PDF invoices and reports from editable HTML/CSS using a Rust engine compiled to WebAssembly. Runs in a browser worker with PNG previews and PDF downloads; includes a complete MIT-licensed application project.
 
+- [PixVibe](https://pixvibe.ai) - Free image tools in the browser: remove backgrounds with ONNX Runtime Web, compress to a target file size and convert HEIC, WebP, AVIF, PNG and JPG with WebAssembly codecs (jSquash, libheif), plus resize, crop and AI upscale. Images are processed on the device and are not uploaded.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
