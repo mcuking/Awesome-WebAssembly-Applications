@@ -127,6 +127,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[vim.wasm] Vim editor ported to WebAssembly](https://github.com/rhysd/vim.wasm)
 
+- [[PDFArenaArc] 100% private in-browser PDF productivity suite (compress, merge, split, redact) running entirely client-side via WebAssembly with zero server uploads](https://pdfarenaarc.com)
+
 - [[Jupyter] JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 
 - [[Pyodide] Pyodide: Bringing the scientific Python stack to the browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
