@@ -54,6 +54,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[ogv.js] JavaScript media player using Ogg/Vorbis/Theora/Opus/WebM libs compiled with Emscripten](https://github.com/brion/ogv.js/)
 
 - [[Clipchamp] Clipchamp's video editor PWA installs see a 97% monthly growth](https://clipchamp.com/en/blog/clipchamp-pwa-case-study/)
+
 - [Practical Web Tools — Video Editor & Audio Workstation](https://practicalwebtools.com/studio) — free browser creative suite; video editing via ffmpeg.wasm, multitrack audio via AudioWorklet, all client-side
 
 - [[Picovoice] Offline Voice AI in a Web Browser](https://picovoice.ai/blog/offline-voice-ai-in-a-web-browser/)
