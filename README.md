@@ -179,6 +179,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [PixVibe](https://pixvibe.ai) - Free image tools in the browser: remove backgrounds with ONNX Runtime Web, compress to a target file size and convert HEIC, WebP, AVIF, PNG and JPG with WebAssembly codecs (jSquash, libheif), plus resize, crop and AI upscale. Images are processed on the device and are not uploaded.
 
+- [Koddo Python Playground](https://koddo.ru/playground/python) - Python editor that runs code in the browser using Pyodide/WebAssembly, with a Russian-language interface and step-by-step execution. The core playground is free and requires no account.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
