@@ -25,6 +25,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Rawnd](https://rawnd.app) — Camera RAW photo editor in the browser: a Rust decoder compiled to WebAssembly and a WebGL2 pipeline cull and develop RAW files locally, with no upload.
 
+- [Unbake](https://fredbourouliou.github.io/unbake/) — An [open-source](https://github.com/FredBourouliou/unbake) tool that turns a flat motion-graphics GIF back into editable shapes, motion paths and self-drawing strokes, then exports Lottie or animated SVG. Python, OpenCV and SciPy run in the browser through Pyodide (WebAssembly); nothing is uploaded.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
