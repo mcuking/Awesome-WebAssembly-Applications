@@ -183,6 +183,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Koddo Python Playground](https://koddo.ru/playground/python) - Python editor that runs code in the browser using Pyodide/WebAssembly, with a Russian-language interface and step-by-step execution. The core playground is free and requires no account.
 
+- [Uttily Media Tools](https://media.uttily.com) - Free browser-based video and audio tools (convert, compress, trim, video to GIF, extract audio) built on ffmpeg.wasm, plus speech-to-text and auto subtitles with Whisper via Transformers.js. Files are processed locally and never uploaded; no account, available in 11 languages.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
