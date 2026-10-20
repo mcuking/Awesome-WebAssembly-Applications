@@ -101,6 +101,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Games
 
+- [[The Human Box] Free, open-source civilization sandbox: rule-based tribes invent their own languages, cultures and beliefs across 45 eras, from the stone age to computers. The whole simulation is Rust compiled to WebAssembly and runs in the browser with no server. Source: github.com/1homsi/thehumanbox](https://thehumanbox.com)
+
 - [[macemu] Classic Macintosh games and System 6, System 7 and Mac OS 8.6 in the browser: Mini vMac, Basilisk II and SheepShaver compiled to WebAssembly boot real disk images streamed in 256 KB chunks, with 120+ preserved titles (The Oregon Trail, SimCity, Escape Velocity) one click from playing.](https://macemu.com)
 
 - [[Caso Abierto] A noir detective game where you solve cases by writing SQL, running DuckDB-WASM in the browser against Parquet case files](https://caso-abierto.christianvadillo.workers.dev)
