@@ -203,6 +203,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[ToolCascade Text to Speech] Kokoro-82M text to speech in the browser through ONNX Runtime Web, on WebGPU with a WebAssembly fallback, and MP3 export with LAME compiled to WebAssembly; the text stays on the device, no account](https://toolcascade.com/tools/text-to-speech)
 
+- [[Yap Online Dictation] Free speech-to-text dictation in the browser: speech recognition runs locally on WebGPU or WebAssembly, so the audio is never uploaded and no sign-up is needed](https://yapapp.cc/online-dictation)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
