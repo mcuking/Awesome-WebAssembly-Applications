@@ -203,6 +203,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[ToolCascade Text to Speech] Kokoro-82M text to speech in the browser through ONNX Runtime Web, on WebGPU with a WebAssembly fallback, and MP3 export with LAME compiled to WebAssembly; the text stays on the device, no account](https://toolcascade.com/tools/text-to-speech)
 
+- [[DevHolster Background Remover] BiRefNet background removal in the browser through ONNX Runtime Web, on WebGPU in fp16 with a WebAssembly CPU fallback in fp32, up to 16 megapixels; the image stays on the device, no account](https://devholster.com/converters/background-remover/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
