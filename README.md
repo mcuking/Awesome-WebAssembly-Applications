@@ -101,6 +101,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Games
 
+- [[The Human Box] Free, open-source civilization sandbox: rule-based tribes invent their own languages, cultures and beliefs across 45 eras, from the stone age to computers. The whole simulation is Rust compiled to WebAssembly and runs in the browser with no server. Source: github.com/1homsi/thehumanbox](https://thehumanbox.com)
+
 - [[macemu] Classic Macintosh games and System 6, System 7 and Mac OS 8.6 in the browser: Mini vMac, Basilisk II and SheepShaver compiled to WebAssembly boot real disk images streamed in 256 KB chunks, with 120+ preserved titles (The Oregon Trail, SimCity, Escape Velocity) one click from playing.](https://macemu.com)
 
 - [[Caso Abierto] A noir detective game where you solve cases by writing SQL, running DuckDB-WASM in the browser against Parquet case files](https://caso-abierto.christianvadillo.workers.dev)
@@ -202,6 +204,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[SauceMatch] Reverse video search for adult clips (18+): an SSCD copy-detection network runs in ONNX Runtime Web, and an OpenCV SIFT and MAGSAC matcher compiled to WebAssembly checks each candidate frame in the browser and scores it 0 to 100](https://saucematch.com/how-it-works)
 
 - [[ToolCascade Text to Speech] Kokoro-82M text to speech in the browser through ONNX Runtime Web, on WebGPU with a WebAssembly fallback, and MP3 export with LAME compiled to WebAssembly; the text stays on the device, no account](https://toolcascade.com/tools/text-to-speech)
+
+- [[Yap Online Dictation] Free speech-to-text dictation in the browser: speech recognition runs locally on WebGPU or WebAssembly, so the audio is never uploaded and no sign-up is needed](https://yapapp.cc/online-dictation)
 
 - [[DevHolster Background Remover] BiRefNet background removal in the browser through ONNX Runtime Web, on WebGPU in fp16 with a WebAssembly CPU fallback in fp32, up to 16 megapixels; the image stays on the device, no account](https://devholster.com/converters/background-remover/)
 
