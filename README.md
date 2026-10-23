@@ -83,6 +83,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[StayPut] Open-source image, PDF and video toolkit built on WebAssembly (libheif, libjxl, libavif, pdf.js, ONNX Runtime Web, MediaPipe): HEIC conversion, compression, EXIF/GPS removal, face blur, PDF merge/split/sign. Runs client-side; no uploads, no accounts.](https://stayput.dev)
 
+- [[iLoveAudioVideo] Free browser-based audio and video tools built on WebAssembly (FFmpeg compiled to Wasm; Whisper speech recognition on ONNX Runtime Web): transcription, subtitles, compress, convert, trim and merge. Everything runs on the device; files are never uploaded.](https://iloveaudiovideo.com)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
