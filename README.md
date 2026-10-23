@@ -207,6 +207,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Yap Online Dictation] Free speech-to-text dictation in the browser: speech recognition runs locally on WebGPU or WebAssembly, so the audio is never uploaded and no sign-up is needed](https://yapapp.cc/online-dictation)
 
+- [[DevHolster Background Remover] BiRefNet background removal in the browser through ONNX Runtime Web, on WebGPU in fp16 with a WebAssembly CPU fallback in fp32, up to 16 megapixels; the image stays on the device, no account](https://devholster.com/converters/background-remover/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
