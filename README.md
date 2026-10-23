@@ -27,6 +27,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Unbake](https://fredbourouliou.github.io/unbake/) — An [open-source](https://github.com/FredBourouliou/unbake) tool that turns a flat motion-graphics GIF back into editable shapes, motion paths and self-drawing strokes, then exports Lottie or animated SVG. Python, OpenCV and SciPy run in the browser through Pyodide (WebAssembly); nothing is uploaded.
 
+- [MillFile](https://millfile.com) — Browser-based converter for two file jobs: rebuilding a PDF to an exact target size (100 KB to 20 MB — the numbers upload forms actually check) while keeping the text layer selectable rather than rasterising it, and converting CR2, CR3, NEF, ARW, ORF, RAF, RW2 and DNG to full-resolution JPG via LibRaw compiled to WebAssembly. No uploads, no account, MIT open source.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
