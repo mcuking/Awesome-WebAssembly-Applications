@@ -213,6 +213,10 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[DevHolster Background Remover] BiRefNet background removal in the browser through ONNX Runtime Web, on WebGPU in fp16 with a WebAssembly CPU fallback in fp32, up to 16 megapixels; the image stays on the device, no account](https://devholster.com/converters/background-remover/)
 
+- [[BeginThings Text to Speech] Kokoro-82M text to speech in the browser with kokoro-js on ONNX Runtime Web (WebAssembly), 7 US and UK English voices and WAV download; the model (about 80 MB) downloads once from a public CDN, no account](https://beginthings.com/free-tools/text-to-speech.html)
+
+- [[BeginThings AI Background Remover] MODNet background removal in the browser with Transformers.js, on WebGPU with a WebAssembly fallback, and transparent PNG download; the image stays on the device, no account](https://beginthings.com/free-tools/ai-background-remover.html)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
