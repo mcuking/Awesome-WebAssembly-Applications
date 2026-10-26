@@ -221,6 +221,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[BeginThings AI Background Remover] MODNet background removal in the browser with Transformers.js, on WebGPU with a WebAssembly fallback, and transparent PNG download; the image stays on the device, no account](https://beginthings.com/free-tools/ai-background-remover.html)
 
+- [[brnfck.chat] LLMs written as single brainfuck programs, compiled to WebAssembly and run in the browser: SmolLM2-135M up to Qwen2.5-1.5B with a 7.3 GB memory64 tape, no account](https://brnfck.chat)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
