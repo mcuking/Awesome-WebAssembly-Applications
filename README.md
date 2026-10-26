@@ -85,6 +85,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[iLoveAudioVideo] Free browser-based audio and video tools built on WebAssembly (FFmpeg compiled to Wasm; Whisper speech recognition on ONNX Runtime Web): transcription, subtitles, compress, convert, trim and merge. Everything runs on the device; files are never uploaded.](https://iloveaudiovideo.com)
 
+- [[NativeConvert] Free browser-based file converter and toolbox built on WebAssembly (FFmpeg.wasm, pdf.js, Tesseract, Whisper on ONNX Runtime Web, jSquash AVIF/WebP): 160+ image, audio and video format pairs plus PDF, image and video tools. Everything runs on the device; files are never uploaded.](https://nativeconvert.com)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
