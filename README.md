@@ -89,6 +89,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [ClipLint](https://cliplint.com) — Free pre-post checker for short-form video. Reads a clip's length, aspect ratio, resolution and file size in the browser, compares them with TikTok, Reels, Shorts, Facebook and X limits, and fixes problems with ffmpeg.wasm. Caption (Tesseract) and face (MediaPipe) detection also run on the device. Files are not uploaded; no account.
 
+- [[Pic2Vector] Free browser-based PNG/JPG/WebP to SVG converter. Raster images are traced into color-layered SVG by vtracer (Rust) compiled to WebAssembly, running in a Web Worker; images never leave the device, no account, no watermark.](https://pic2vector.com/)
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
