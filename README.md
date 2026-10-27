@@ -7,6 +7,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 ## Inside the browser
 
 ### Media
+
+- [Drop & Clean](https://dropcleandone.com) — 100% in-browser private media suite: 48kHz neural audio denoise, video remux, and vector PDF redaction via WebAssembly (SIMD) and WebGPU. Zero server uploads.
 - [Collage Studio](https://collage-studio.app) - Free photo collage generator that uses WebAssembly to run a genetic algorithm, rapidly evolving thousands of layout variations to create seamless, gap-free collages without cropping your images.
 
 - [Darkly](https://demo.darkly.art) — An [open-source](https://github.com/darkly-art/darkly), WebGPU-powered photo editor and paint program for digital artists, written in Rust + WebAssembly.
