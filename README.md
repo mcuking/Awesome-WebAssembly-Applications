@@ -202,6 +202,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [PasteZap PostgreSQL Online](https://pastezap.com/tools/postgresql-online/) - Real PostgreSQL (PGlite) running in the browser via WebAssembly: create tables, test queries, window functions, JSONB and CTEs, then save the database locally. No server, no account.
 
+- [Python Runner](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo) - Chrome extension that runs Python scripts in a tab with CPython compiled to WebAssembly (Pyodide) shipped inside it, so it works offline with no server or account. Standard library only.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
