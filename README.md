@@ -204,6 +204,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Python Runner](https://chromewebstore.google.com/detail/lioibcedpohmlcepmignijeddplkejpo) - Chrome extension that runs Python scripts in a tab with CPython compiled to WebAssembly (Pyodide) shipped inside it, so it works offline with no server or account. Standard library only.
 
+- [Convertex](https://chromewebstore.google.com/detail/eemhkdhchanmcoejnmfpgilajfngdjad) - An [open-source](https://github.com/tristan-mrtn/Convertex) Chrome extension that converts files between 85 formats from the side panel. ffmpeg.wasm, Pandoc and ImageMagick compiled to WebAssembly are bundled inside it, and a conversion graph finds multi-step paths when there is no direct conversion. Files never leave the browser and the extension cannot make network requests.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
