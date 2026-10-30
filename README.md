@@ -138,6 +138,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Citybound] A work-in-progress, open-source, multi-player city simulation game](https://aeplay.org/citybound)
 
+- [Open Chess](https://jupiutrera.github.io/open-chess/) - An [open-source](https://github.com/jupiutrera/open-chess) chess trainer where Stockfish 19 compiled to WebAssembly runs in Web Workers: game review with move classification, bots, 104k puzzles and an opening trainer. Everything runs on the device, offline, with no server or account.
+
 ### Online Productive Tools
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
