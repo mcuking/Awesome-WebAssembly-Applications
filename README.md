@@ -20,6 +20,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [SlingSite](https://slingsite.github.io) — Browser-based image and video compressor using FFmpeg.wasm: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device. No uploads. Free unlimited use.
 
+- [Zippic](https://zippic.app) — Free in-browser image compressor/converter (JPG/PNG/WebP/AVIF etc.) using WebAssembly codecs; files never leave the browser.
+
 - [IconKing](https://iconking.net) — Free browser-based Lottie animation tool. Preview .json/.lottie files, edit colors across all layers, and convert between Lottie JSON ↔ dotLottie formats. 100% client-side via WebAssembly — files never leave the browser.
 
 - [Tonalux](https://tonalux.org/) — Browser-based audio production platform featuring a WebAssembly-powered media converter (FFmpeg.wasm), spectrum analyzer and plugin comparer. All processing happens locally in the browser.
