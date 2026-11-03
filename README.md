@@ -95,6 +95,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [ClipLint](https://cliplint.com) — Free pre-post checker for short-form video. Reads a clip's length, aspect ratio, resolution and file size in the browser, compares them with TikTok, Reels, Shorts, Facebook and X limits, and fixes problems with ffmpeg.wasm. Caption (Tesseract) and face (MediaPipe) detection also run on the device. Files are not uploaded; no account.
 
 - [[Pic2Vector] Free browser-based PNG/JPG/WebP to SVG converter. Raster images are traced into color-layered SVG by vtracer (Rust) compiled to WebAssembly, running in a Web Worker; images never leave the device, no account, no watermark.](https://pic2vector.com/)
+
 - [ClipFit](https://compressmyclip.com) — Browser-based Discord video compressor built on FFmpeg.wasm: it derives the video bitrate from the clip's length and the account's upload ceiling, then reports the real output size. Files never leave the browser.
 
 ### Visualization
