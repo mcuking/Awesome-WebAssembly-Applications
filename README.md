@@ -271,6 +271,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Vedaksha Playground] Private, client-side Vedic astrology chart calculator powered by a zero-data Rust/WebAssembly ephemeris; all computation stays in the browser](https://vedaksha.net/playground)
 
+- [[OpenFLUME] Open-source thermo-fluid network simulator for engineers that runs entirely in the browser, with real-fluid properties from CoolProp compiled to WebAssembly; the same solver is also available as a Python package (pip install openflume). Source: github.com/OpenFLUME/OpenFLUME](https://openflume.github.io/OpenFLUME/)
+
 ### Code Protect
 
 - [[JSVMP] 基于 WebAssembly 的 JavaScript 代码虚拟化保护方法研究与实现](https://www.docin.com/p-2280105277.html)
