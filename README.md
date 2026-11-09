@@ -146,6 +146,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Cube Solver Lab] Free, open-source (MIT) solver for 2×2–15×15 cubes, Pyraminx, Skewb and Megaminx, with a 3D step-by-step player. 5×5 and larger cubes are solved by gullicube compiled to multithreaded WebAssembly; solving runs entirely in the browser. Source: github.com/neichen/cube-solver](https://cube-solver.org)
 
+- [[Brass Pawn] Open-source (AGPLv3) offline chess tactics, positional judgement, and endgame trainer running Stockfish 18 compiled to WebAssembly (NNUE) in Web Workers, with 14,351 verified Lichess puzzles and win-probability move grading. Source: github.com/minchopm/chess-trainer](https://brasspawn.com)
+
 ### Online Productive Tools
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
