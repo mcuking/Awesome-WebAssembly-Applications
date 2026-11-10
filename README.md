@@ -8,6 +8,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Media
 
+- [AVIF Crate](https://avifcrate.com/) — Converts AVIF images to JPG locally in the browser using the libavif WebAssembly decoder, with batch export and quality controls.
+
 - [Drop & Clean](https://dropcleandone.com) — 100% in-browser private media suite: 48kHz neural audio denoise, video remux, and vector PDF redaction via WebAssembly (SIMD) and WebGPU. Zero server uploads.
 
 - [Collage Studio](https://collage-studio.app) - Free photo collage generator that uses WebAssembly to run a genetic algorithm, rapidly evolving thousands of layout variations to create seamless, gap-free collages without cropping your images.
