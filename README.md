@@ -222,6 +222,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [PPOCR.com](https://ppocr.com) — Free browser-based OCR powered by PaddleOCR PP-OCRv6 via WebAssembly. Fully local inference, no image upload, supports Chinese/English and table recognition.
 
+- [Nyxiontech PDF Tools](https://tools.nyxiontech.com) - 25 PDF and image tools in one tab: merge, split, compress, sign, fill forms, redact, convert and OCR. WebAssembly does the heavy work, with the pdf.js JBIG2 and OpenJPEG decoders for rendering, Tesseract for Polish and English OCR, and ONNX Runtime Web running U²-Net for background removal. Files are processed on the device and are not uploaded, and there is no account. Open source (AGPL-3.0).
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
