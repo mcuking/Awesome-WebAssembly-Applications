@@ -224,6 +224,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Nyxiontech PDF Tools](https://tools.nyxiontech.com) - 25 PDF and image tools in one tab: merge, split, compress, sign, fill forms, redact, convert and OCR. WebAssembly does the heavy work, with the pdf.js JBIG2 and OpenJPEG decoders for rendering, Tesseract for Polish and English OCR, and ONNX Runtime Web running U²-Net for background removal. Files are processed on the device and are not uploaded, and there is no account. Open source (AGPL-3.0).
 
+- [Treeet](https://treeet.com) - 190+ free file tools in the browser: convert images, PDFs, Office files, ebooks (EPUB, MOBI, AZW3, FB2, DjVu), video and audio, make ID and passport photos, and convert legacy Hindi, Nepali and Bangla fonts to Unicode. Video and audio run on ffmpeg.wasm, OCR on Tesseract and AVIF encoding on jSquash, all compiled to WebAssembly. Files are processed on the device and never uploaded; no account.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
