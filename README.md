@@ -226,6 +226,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Treeet](https://treeet.com) - 190+ free file tools in the browser: convert images, PDFs, Office files, ebooks (EPUB, MOBI, AZW3, FB2, DjVu), video and audio, make ID and passport photos, and convert legacy Hindi, Nepali and Bangla fonts to Unicode. Video and audio run on ffmpeg.wasm, OCR on Tesseract and AVIF encoding on jSquash, all compiled to WebAssembly. Files are processed on the device and never uploaded; no account.
 
+- [Viquis 3D](https://www.viquis.com/app/) - Browser-based 3D and CAD viewer. STEP, IGES and BREP files are read by OpenCASCADE compiled to WebAssembly, alongside STL, 3MF, OBJ, glTF/GLB, PLY and G-code. Viewing and measuring are free with no account; nothing is uploaded. Freemium, closed source.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
