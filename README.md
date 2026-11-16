@@ -228,6 +228,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Viquis 3D](https://www.viquis.com/app/) - Browser-based 3D and CAD viewer. STEP, IGES and BREP files are read by OpenCASCADE compiled to WebAssembly, alongside STL, 3MF, OBJ, glTF/GLB, PLY and G-code. Viewing and measuring are free with no account; nothing is uploaded. Freemium, closed source.
 
+- [PulsarKit](https://pulsarkit.com/?utm_source=awesome-webassembly-applications) - More than 200 free file tools in the browser for PDF, images, video, audio and text. Video and audio run on ffmpeg compiled to WebAssembly, PDF passwords on qpdf compiled to WebAssembly, HEIC decoding on libheif. Most tools process the file on the device; the few that need a server say so on their page. No sign-up.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
