@@ -230,6 +230,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [PulsarKit](https://pulsarkit.com/?utm_source=awesome-webassembly-applications) - More than 200 free file tools in the browser for PDF, images, video, audio and text. Video and audio run on ffmpeg compiled to WebAssembly, PDF passwords on qpdf compiled to WebAssembly, HEIC decoding on libheif. Most tools process the file on the device; the few that need a server say so on their page. No sign-up.
 
+- [dojotool](https://dojotool.com) - 57 free browser tools for PDF, images and audio, in 11 languages. AI tools run on ONNX Runtime Web (WebAssembly or WebGPU): BiRefNet background removal, LaMa object removal, a UVR vocal remover, PaddleOCR and a layout model for PDF to Word. Word to PDF runs LibreOffice compiled to WebAssembly, PDF compression GemaPDF, translation the Bergamot engine, image codecs jSquash and libheif, MP3 encoding LAME. Files are processed on the device and never uploaded; no account.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
