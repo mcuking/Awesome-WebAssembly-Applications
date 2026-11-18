@@ -128,7 +128,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Caso Abierto] A noir detective game where you solve cases by writing SQL, running DuckDB-WASM in the browser against Parquet case files](https://caso-abierto.christianvadillo.workers.dev)
 
-- [[wine-assembly] Run unmodified Win32/Win98 PE executables — Pinball Space Cadet, SkiFree, FreeCell, Solitaire, Minesweeper, Winamp, mspaint — directly in the browser. The interpreter is coded directly in WebAssembly Text (no Rust/C compiler); guest binaries run as-is, no recompilation.](https://wine-assembly.berrry.app)
+- [[berrry.wine] Run unmodified Windows 95/98 executables directly in the browser: the StarCraft, Diablo, Quake II and Half-Life demos, Space Cadet Pinball, SkiFree, Winamp and 180 games on its compatibility list, with DirectX/OpenGL, phone touch controls and LAN multiplayer over WebRTC. The x86 interpreter and Win32 layer are written directly in WebAssembly Text (no Rust/C compiler, no OS image); guest binaries run as-is. Source: github.com/vgrichina/berrry-wine](https://berrry.wine)
 
 - [[GLAS] GLAS = WebGL + Assembly Script(WASM);](https://dev.to/zoedreams/glas-webgl-assembly-script-wasm-i40)
 
