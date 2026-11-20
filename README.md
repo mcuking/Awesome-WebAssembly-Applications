@@ -8,6 +8,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Media
 
+- [SoundBench](https://soundbench.net/) — Free browser-based audio toolkit: convert, trim and edit audio with FFmpeg.wasm and LAME, spot fake lossless files with an FFT spectrum analyzer, and split vocals and instruments with Meta's HTDemucs on ONNX Runtime Web (WebGPU or Wasm). Files never leave the device; no account.
+
 - [AVIF Crate](https://avifcrate.com/) — Converts AVIF images to JPG locally in the browser using the libavif WebAssembly decoder, with batch export and quality controls.
 
 - [Drop & Clean](https://dropcleandone.com) — 100% in-browser private media suite: 48kHz neural audio denoise, video remux, and vector PDF redaction via WebAssembly (SIMD) and WebGPU. Zero server uploads.
