@@ -234,6 +234,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [dojotool](https://dojotool.com) - 57 free browser tools for PDF, images and audio, in 11 languages. AI tools run on ONNX Runtime Web (WebAssembly or WebGPU): BiRefNet background removal, LaMa object removal, a UVR vocal remover, PaddleOCR and a layout model for PDF to Word. Word to PDF runs LibreOffice compiled to WebAssembly, PDF compression GemaPDF, translation the Bergamot engine, image codecs jSquash and libheif, MP3 encoding LAME. Files are processed on the device and never uploaded; no account.
 
+- [xmlvalid](https://xmlvalid.com/validate) - XML validator for XSD 1.0, DTD, RelaxNG and Schematron. libxml2, wrapped in a Rust streaming engine and compiled to WebAssembly, validates files up to 1 GB in a Web Worker with flat memory; SaxonJS runs the Schematron business rules of e-invoices (EN 16931, Peppol, XRechnung, Factur-X). Files are validated on the device and not uploaded; free, no account up to 50 MB. Closed source.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
