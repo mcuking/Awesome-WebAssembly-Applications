@@ -22,6 +22,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
+- [Free Video to MP3](https://free-video-to-mp3.web-free.site/?ref=github) — Extract an MP3 from a local video in the browser using FFmpeg.wasm. Choose bitrate; the file is not uploaded. No account.
+
 - [SlingSite](https://slingsite.github.io) — Browser-based image and video compressor using FFmpeg.wasm: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device. No uploads. Free unlimited use.
 
 - [Zippic](https://zippic.app) — Free in-browser image compressor/converter (JPG/PNG/WebP/AVIF etc.) using WebAssembly codecs; files never leave the browser.
