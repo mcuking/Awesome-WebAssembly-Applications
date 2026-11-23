@@ -22,6 +22,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Remove Audio](https://remove-audio.com) — Strip audio from video files in the browser using WebAssembly and FFmpeg.wasm. No uploads, no account. Batch up to 20 files.
 
+- [Free Video to MP3](https://free-video-to-mp3.web-free.site/?ref=github) — Extract an MP3 from a local video in the browser using FFmpeg.wasm. Choose bitrate; the file is not uploaded. No account.
+
 - [SlingSite](https://slingsite.github.io) — Browser-based image and video compressor using FFmpeg.wasm: converts images to JPG/WebP/AVIF and video to VP9/HEVC/H.264, resized per device. No uploads. Free unlimited use.
 
 - [Zippic](https://zippic.app) — Free in-browser image compressor/converter (JPG/PNG/WebP/AVIF etc.) using WebAssembly codecs; files never leave the browser.
@@ -235,6 +237,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [dojotool](https://dojotool.com) - 57 free browser tools for PDF, images and audio, in 11 languages. AI tools run on ONNX Runtime Web (WebAssembly or WebGPU): BiRefNet background removal, LaMa object removal, a UVR vocal remover, PaddleOCR and a layout model for PDF to Word. Word to PDF runs LibreOffice compiled to WebAssembly, PDF compression GemaPDF, translation the Bergamot engine, image codecs jSquash and libheif, MP3 encoding LAME. Files are processed on the device and never uploaded; no account.
 
 - [xmlvalid](https://xmlvalid.com/validate) - XML validator for XSD 1.0, DTD, RelaxNG and Schematron. libxml2, wrapped in a Rust streaming engine and compiled to WebAssembly, validates files up to 1 GB in a Web Worker with flat memory; SaxonJS runs the Schematron business rules of e-invoices (EN 16931, Peppol, XRechnung, Factur-X). Files are validated on the device and not uploaded; free, no account up to 50 MB. Closed source.
+
+- [FilesProcess](https://filesprocess.com) - 180+ free file tools in the browser for PDF, images, audio and video. Image codecs (MozJPEG, OxiPNG, libwebp and libavif via jSquash, plus libheif) run as WebAssembly, OCR runs on Tesseract, and speech denoising runs DeepFilterNet3 on ONNX Runtime Web; PDFs are handled with pdf.js and pdf-lib. Files are processed on the device and never uploaded; no account, and it works offline once loaded.
 
 - [PDFHANA](https://pdfhana.com) - Korean PDF, image and HWP toolkit that runs fully in the browser: OCR on tesseract.js (WebAssembly), Hangul HWP/HWPX rendering and conversion on rhwp (Rust compiled to WebAssembly), video to MP3 on ffmpeg.wasm, background removal on ONNX Runtime Web. Files are processed on the device and not uploaded; free, no account.
 
