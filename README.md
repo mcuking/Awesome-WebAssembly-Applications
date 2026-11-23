@@ -240,6 +240,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FilesProcess](https://filesprocess.com) - 180+ free file tools in the browser for PDF, images, audio and video. Image codecs (MozJPEG, OxiPNG, libwebp and libavif via jSquash, plus libheif) run as WebAssembly, OCR runs on Tesseract, and speech denoising runs DeepFilterNet3 on ONNX Runtime Web; PDFs are handled with pdf.js and pdf-lib. Files are processed on the device and never uploaded; no account, and it works offline once loaded.
 
+- [PDFHANA](https://pdfhana.com) - Korean PDF, image and HWP toolkit that runs fully in the browser: OCR on tesseract.js (WebAssembly), Hangul HWP/HWPX rendering and conversion on rhwp (Rust compiled to WebAssembly), video to MP3 on ffmpeg.wasm, background removal on ONNX Runtime Web. Files are processed on the device and not uploaded; free, no account.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
