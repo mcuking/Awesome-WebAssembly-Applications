@@ -120,8 +120,9 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Room Modes Simulator] FEM acoustic solver running in-browser using WebAssembly.](https://yacineazmi.com/room-modes/)
 
-- [[Grenzwert] In-browser 3D CT/MRI (DICOM) volume viewer with cinematic rendering, via WebAssembly + WebGPU.](https://grenzwert.net)
+- [[Grenzwert] In-browser 3D CT/MRI (DICOM) volume viewer with cinematic rendering, via WebAssembly + WebGPU.](https://Grenzwert.net)
 
+- [Seed Map Viewer](https://seedmapviewer.com/) — A Minecraft seed map running the cubiomes world-generation engine compiled to WebAssembly, entirely in the browser: biome maps for all three dimensions, plus village, structure and slime-chunk finders for any seed. Free, no signup.
 ### Games
 
 - [[Mu Veyra] MU Online Season 6 in the browser: no download, no installation, 7 classes, Castle Siege, guilds and PvP. The client runs on WebAssembly with WebGPU (WebGL2 fallback).](https://muveyra.com/play/)
