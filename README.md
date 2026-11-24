@@ -40,6 +40,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [MillFile](https://millfile.com) — Browser-based converter for two file jobs: rebuilding a PDF to an exact target size (100 KB to 20 MB — the numbers upload forms actually check) while keeping the text layer selectable rather than rasterising it, and converting CR2, CR3, NEF, ARW, ORF, RAF, RW2 and DNG to full-resolution JPG via LibRaw compiled to WebAssembly. No uploads, no account, MIT open source.
 
+- [FormatBay](https://formatbay.com) — Free browser-based file tools: HEIC to JPG with libheif (WebAssembly), MP3 export with LAME (WebAssembly), portrait background removal with MODNet on ONNX Runtime Web, plus video compression and trimming with WebCodecs and PDF merge, split, sign and PDF to Word with pdf.js and pdf-lib. Files never leave the device; no account.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
