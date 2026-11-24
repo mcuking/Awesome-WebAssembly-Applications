@@ -278,6 +278,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[goodbye.bg] Background remover that runs BiRefNet and ISNet with ONNX Runtime Web: WebAssembly with threads on phones (every iPhone), WebGPU on computers. Photos are cut out on the device; HEIC, camera RAW and animated GIFs go in. Free, no account, open source (AGPL-3.0)](https://goodbye.bg/)
 
+- [[Best Latest Apps Background Remover] U2-Net (u2netp) background removal in the browser through ONNX Runtime Web on WebAssembly, with a WebGPU build when the device has a graphics chip, and transparent PNG download; the photo stays on the device, no account](https://bestlatestapps.com/tools/background-remover/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
