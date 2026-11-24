@@ -348,3 +348,5 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 ### Plugin System
 
 - [[Zellij] Zellij - A terminal workspace, with wasm plugin system](https://github.com/zellij-org/zellij)
+
+- [[Lounge] Lounge - An Android TV launcher, with a sandboxed wasm plugin system](https://github.com/Gingerbreadfork/lounge)
