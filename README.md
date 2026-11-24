@@ -42,6 +42,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [BatchSet](https://batchset.com/tools/heic-to-jpg) — Batch image converter, compressor and resizer that runs in the browser. iPhone HEIC photos are decoded with libheif compiled to WebAssembly, so files stay on the device. Free tools need no account.
 
+- [FormatBay](https://formatbay.com) — Free browser-based file tools: HEIC to JPG with libheif (WebAssembly), MP3 export with LAME (WebAssembly), portrait background removal with MODNet on ONNX Runtime Web, plus video compression and trimming with WebCodecs and PDF merge, split, sign and PDF to Word with pdf.js and pdf-lib. Files never leave the device; no account.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
