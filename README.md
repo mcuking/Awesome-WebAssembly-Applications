@@ -274,6 +274,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[brnfck.chat] LLMs written as single brainfuck programs, compiled to WebAssembly and run in the browser: SmolLM2-135M up to Qwen2.5-1.5B with a 7.3 GB memory64 tape, no account](https://brnfck.chat)
 
+- [[goodbye.bg] Background remover that runs BiRefNet and ISNet with ONNX Runtime Web: WebAssembly with threads on phones (every iPhone), WebGPU on computers. Photos are cut out on the device; HEIC, camera RAW and animated GIFs go in. Free, no account, open source (AGPL-3.0)](https://goodbye.bg/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
