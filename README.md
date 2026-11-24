@@ -40,6 +40,10 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [MillFile](https://millfile.com) — Browser-based converter for two file jobs: rebuilding a PDF to an exact target size (100 KB to 20 MB — the numbers upload forms actually check) while keeping the text layer selectable rather than rasterising it, and converting CR2, CR3, NEF, ARW, ORF, RAF, RW2 and DNG to full-resolution JPG via LibRaw compiled to WebAssembly. No uploads, no account, MIT open source.
 
+- [BatchSet](https://batchset.com/tools/heic-to-jpg) — Batch image converter, compressor and resizer that runs in the browser. iPhone HEIC photos are decoded with libheif compiled to WebAssembly, so files stay on the device. Free tools need no account.
+
+- [FormatBay](https://formatbay.com) — Free browser-based file tools: HEIC to JPG with libheif (WebAssembly), MP3 export with LAME (WebAssembly), portrait background removal with MODNet on ONNX Runtime Web, plus video compression and trimming with WebCodecs and PDF merge, split, sign and PDF to Word with pdf.js and pdf-lib. Files never leave the device; no account.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
@@ -272,6 +276,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[brnfck.chat] LLMs written as single brainfuck programs, compiled to WebAssembly and run in the browser: SmolLM2-135M up to Qwen2.5-1.5B with a 7.3 GB memory64 tape, no account](https://brnfck.chat)
 
+- [[goodbye.bg] Background remover that runs BiRefNet and ISNet with ONNX Runtime Web: WebAssembly with threads on phones (every iPhone), WebGPU on computers. Photos are cut out on the device; HEIC, camera RAW and animated GIFs go in. Free, no account, open source (AGPL-3.0)](https://goodbye.bg/)
+
 - [[Best Latest Apps Background Remover] U2-Net (u2netp) background removal in the browser through ONNX Runtime Web on WebAssembly, with a WebGPU build when the device has a graphics chip, and transparent PNG download; the photo stays on the device, no account](https://bestlatestapps.com/tools/background-remover/)
 
 ### Databases
@@ -350,3 +356,5 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 ### Plugin System
 
 - [[Zellij] Zellij - A terminal workspace, with wasm plugin system](https://github.com/zellij-org/zellij)
+
+- [[Lounge] Lounge - An Android TV launcher, with a sandboxed wasm plugin system](https://github.com/Gingerbreadfork/lounge)
