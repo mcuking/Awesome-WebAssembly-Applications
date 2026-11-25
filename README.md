@@ -8,6 +8,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 ### Media
 
+- [AIAC (SoundCraft DAW & Local Audio Suite)](https://aiac.app/soundcraft/) — Free browser-based audio studio featuring a pure Rust WebAssembly multitrack DAW (25+ DSP effects, MIDI piano roll, WAV/FLAC bounce), offline WebGPU/WASM Whisper transcription, ITU-R BS.1770-4 LUFS loudness meter, FFT Fake-FLAC spectral checker, and local ONNX stem separation. Files stay on device; no account required.
+
 - [SoundBench](https://soundbench.net/) — Free browser-based audio toolkit: convert, trim and edit audio with FFmpeg.wasm and LAME, spot fake lossless files with an FFT spectrum analyzer, and split vocals and instruments with Meta's HTDemucs on ONNX Runtime Web (WebGPU or Wasm). Files never leave the device; no account.
 
 - [AVIF Crate](https://avifcrate.com/) — Converts AVIF images to JPG locally in the browser using the libavif WebAssembly decoder, with batch export and quality controls.
