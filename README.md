@@ -282,6 +282,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Best Latest Apps Background Remover] U2-Net (u2netp) background removal in the browser through ONNX Runtime Web on WebAssembly, with a WebGPU build when the device has a graphics chip, and transparent PNG download; the photo stays on the device, no account](https://bestlatestapps.com/tools/background-remover/)
 
+- [[SpeakCove] Reads PDFs, EPUBs and Word docs aloud in the browser. The file parser is Rust compiled to Wasm, and the voices and OCR run locally with ONNX Runtime Web, so nothing gets uploaded](https://speakcove.com/text-to-speech)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
