@@ -30,6 +30,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Zippic](https://zippic.app) — Free in-browser image compressor/converter (JPG/PNG/WebP/AVIF etc.) using WebAssembly codecs; files never leave the browser.
 
+- [Free Background Remover](https://free-background-remover.web-free.site/?ref=awesome-wasm-applications) — Remove photo backgrounds in the browser with BiRefNet via ONNX Runtime Web; images stay on your device. No sign-up.
+
 - [IconKing](https://iconking.net) — Free browser-based Lottie animation tool. Preview .json/.lottie files, edit colors across all layers, and convert between Lottie JSON ↔ dotLottie formats. 100% client-side via WebAssembly — files never leave the browser.
 
 - [Tonalux](https://tonalux.org/) — Browser-based audio production platform featuring a WebAssembly-powered media converter (FFmpeg.wasm), spectrum analyzer and plugin comparer. All processing happens locally in the browser.
