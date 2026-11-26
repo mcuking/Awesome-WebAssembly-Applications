@@ -110,6 +110,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [ClipFit](https://compressmyclip.com) — Browser-based Discord video compressor built on FFmpeg.wasm: it derives the video bitrate from the clip's length and the account's upload ceiling, then reports the real output size. Files never leave the browser.
 
+- [Image to SVG](https://nuncaeslupus.github.io/image-to-svg/) — An [open-source](https://github.com/nuncaeslupus/image-to-svg) raster-to-vector converter: VTracer (Rust) compiled to WebAssembly traces PNG, JPEG, WebP, GIF, BMP and AVIF into SVG in a Web Worker, with crop and rotate, color count, smoothness and detail controls. Installable as an offline PWA; images are never uploaded, no account.
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
