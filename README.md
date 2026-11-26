@@ -109,6 +109,7 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [[Pic2Vector] Free browser-based PNG/JPG/WebP to SVG converter. Raster images are traced into color-layered SVG by vtracer (Rust) compiled to WebAssembly, running in a Web Worker; images never leave the device, no account, no watermark.](https://pic2vector.com/)
 
 - [ClipFit](https://compressmyclip.com) — Browser-based Discord video compressor built on FFmpeg.wasm: it derives the video bitrate from the clip's length and the account's upload ceiling, then reports the real output size. Files never leave the browser.
+- [CreoArt Photo & PSD Editor](https://creoart.app/photo-editor) - Free, ad-free browser-local WebGPU/WASM PSD & layer editor with zero file uploads and optional AI handoff.
 
 ### Visualization
 
