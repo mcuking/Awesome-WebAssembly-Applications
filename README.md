@@ -115,6 +115,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [KBLimit](https://kblimit.com/) — Free browser-local image compressor, converter (HEIC via locally bundled `libheif-js` WebAssembly, JPG, PNG, WebP, PDF), and binary EXIF metadata scrubber targeting exact KB limits using straight-RGBA `UPNG.js` Web Workers. Files never leave the device; no account, no analytics.
 
+- [Image to SVG](https://nuncaeslupus.github.io/image-to-svg/) — An [open-source](https://github.com/nuncaeslupus/image-to-svg) raster-to-vector converter: VTracer (Rust) compiled to WebAssembly traces PNG, JPEG, WebP, GIF, BMP and AVIF into SVG in a Web Worker, with crop and rotate, color count, smoothness and detail controls. Installable as an offline PWA; images are never uploaded, no account.
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
