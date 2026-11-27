@@ -284,6 +284,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[cv.cm Depth Map Generator] Depth Anything V2 (small) in the browser with Transformers.js on ONNX Runtime Web: WebGPU when the device has it, otherwise the WebAssembly build with a 27 MB quantized model. Saves a grayscale, Turbo or Magma depth PNG at the photo's size; the photo stays on the device, no account](https://cv.cm/en/depth-map/)
 
+- [[SpeakCove] Reads PDFs, EPUBs and Word docs aloud in the browser. The file parser is Rust compiled to Wasm, and the voices and OCR run locally with ONNX Runtime Web, so nothing gets uploaded](https://speakcove.com/text-to-speech)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
