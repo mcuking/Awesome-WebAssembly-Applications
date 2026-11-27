@@ -171,6 +171,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[Brass Pawn] Open-source (AGPLv3) offline chess tactics, positional judgement, and endgame trainer running Stockfish 18 compiled to WebAssembly (NNUE) in Web Workers, with 14,351 verified Lichess puzzles and win-probability move grading. Source: github.com/minchopm/chess-trainer](https://brasspawn.com)
 
+- [[cv.cm Chess] Play chess against the computer in the browser at five levels: Stockfish 19 lite (single-threaded) compiled to WebAssembly, a 1.9 MB engine in a Web Worker that starts on the computer's first move, so the page needs no cross-origin isolation. The game is saved on the device; 9 languages, no account](https://cv.cm/en/chess/)
+
 ### Online Productive Tools
 
 - [[AutoCAD] AutoCAD & WebAssembly: Moving a 30 Year Code Base to the Web](https://www.infoq.com/presentations/autocad-webassembly/)
