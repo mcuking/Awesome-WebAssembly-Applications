@@ -111,6 +111,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 - [ClipFit](https://compressmyclip.com) — Browser-based Discord video compressor built on FFmpeg.wasm: it derives the video bitrate from the clip's length and the account's upload ceiling, then reports the real output size. Files never leave the browser.
 - [CreoArt Photo & PSD Editor](https://creoart.app/photo-editor) - Free, ad-free browser-local WebGPU/WASM PSD & layer editor with zero file uploads and optional AI handoff.
 
+- [Unraster](https://unraster.app/) — Free browser-based image vectorizer. A Rust engine compiled to WebAssembly traces PNG, JPEG and WebP images into SVG, PDF, EPS or DXF in a Web Worker. Images never leave the device; MIT open source ([GitHub](https://github.com/Jeramai/unraster)).
+
 ### Visualization
 
 - [[Google Earth] Chromium Blog: WebAssembly brings Google Earth to more ...](https://blog.chromium.org/2019/06/webassembly-brings-google-earth-to-more.html)
