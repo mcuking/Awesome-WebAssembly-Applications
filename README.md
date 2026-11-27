@@ -48,6 +48,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [FormatBay](https://formatbay.com) — Free browser-based file tools: HEIC to JPG with libheif (WebAssembly), MP3 export with LAME (WebAssembly), portrait background removal with MODNet on ONNX Runtime Web, plus video compression and trimming with WebCodecs and PDF merge, split, sign and PDF to Word with pdf.js and pdf-lib. Files never leave the device; no account.
 
+- [Audio Forge Pro](https://audioforgepro.com) — Free browser-based audio editing suite running locally via ONNX Runtime Web (WebAssembly SIMD / WebGPU), Web Audio API, and WebCodecs: Silero VAD silence removal, voice-over auto-ducking, vocal and music stem separation, ITU-R BS.1770-4 LUFS normalization, audio-to-video waveform export, key/BPM detection, format conversion (WAV/M4A to MP3), and 8 audio effects. Files stay on the device; no account required.
+
 - [[Photoshop] Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
 
 - [[Figma] WebAssembly cut Figma's load time by 3x](https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/)
