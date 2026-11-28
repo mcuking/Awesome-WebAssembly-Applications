@@ -263,6 +263,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [Madosuite](https://madosuite.com) - 356 free file tools in the browser for PDF, Word/Excel/PowerPoint, images, HEIC, video, audio, ZIP/RAR/7z and QR. PDF work uses QPDF compiled to WebAssembly with PDF.js and pdf-lib, OCR runs on tesseract.js, background removal runs BiRefNet lite on ONNX Runtime Web (WebGPU or Wasm), and video uses Mediabunny on WebCodecs. Files are never uploaded; no sign-up. Closed source.
 
+- [VeilPress](https://lukaslabs.top/veilpress) - Offline-first forensic PDF & scanned-document redaction, Auto-PII scrubbing, and Bates exhibit packet studio in the browser. Runs self-hosted Tesseract.js WebAssembly OCR for scanned PDFs and phone photos alongside pixel burn-in redaction, metadata/EXIF stripping, and a second-pass Re-OCR zero-leak audit. Files never leave the device; no sign-up, works offline as a PWA. Freemium (free up to 5 pages/PDF), closed source.
+
 ### Machine Learning
 
 - [[TensorFlow.js] Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html?m=1)
