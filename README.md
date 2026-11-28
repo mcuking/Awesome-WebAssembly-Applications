@@ -299,6 +299,8 @@ Welcome PR if you find some Awsome WebAssembly Applications 🤣
 
 - [[SpeakCove] Reads PDFs, EPUBs and Word docs aloud in the browser. The file parser is Rust compiled to Wasm, and the voices and OCR run locally with ONNX Runtime Web, so nothing gets uploaded](https://speakcove.com/text-to-speech)
 
+- [[cv.cm AI Image Upscaler] Real-ESRGAN (compact x4v3, photo and anime models, 1.3–4.9 MB) enlarges an image 2× or 4× in the browser with ONNX Runtime Web: WebGPU in fp16 when the device has it, otherwise the threaded WebAssembly build. Output up to 16 megapixels as PNG, JPEG or WebP; the image stays on the device, no account](https://cv.cm/en/image-upscaler/)
+
 ### Databases
 
 - [[absurd-sql] A future for SQL on the web](https://jlongster.com/future-sql-web)
